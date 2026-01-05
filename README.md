@@ -1,101 +1,108 @@
-# 🍽️ Aspect-Based Sentiment Analysis (ABSA) – Restaurant Reviews
+# Aspect-Based Sentiment Analysis (ABSA) – LSTM Model
 
-This project implements an **Aspect-Based Sentiment Analysis (ABSA)** model using **Bidirectional LSTM** to classify restaurant reviews as **positive or negative** for specific aspects such as **FOOD, SERVICE, DELIVERY, and OVERALL experience**.
+## Overview
 
-The goal is to help customers quickly understand **the sentiment of different aspects** in restaurant reviews, so they can make informed decisions.
+This project performs **aspect-based sentiment analysis** on home meal / restaurant reviews using an **LSTM model**.
+The model predicts **sentiment per aspect** like `FOOD`, `SERVICE`, `DELIVERY_OVERALL` instead of just overall sentiment.
 
----
+**Example:**
 
-## Features
+> "Rice was fantastic but service was bad"
 
-- Preprocess restaurant reviews: clean text, remove punctuation, lowercase
-- Focus on relevant aspects:
-  - FOOD#QUALITY, FOOD#STYLE_OPTIONS, FOOD#PRICES
-  - SERVICE#GENERAL
-  - DELIVERY#GENERAL
-  - OVERALL#GENERAL
-- Handle class imbalance by upsampling
-- Train a Bidirectional LSTM for sentiment classification
-- Evaluate model with Accuracy, Precision, Recall, and F1-score
+* FOOD: Positive
+* SERVICE: Negative
 
 ---
 
 ## Dataset
 
-- **Training data:** `restaurants_train_single.csv`  
-- **Test data:** `restaurants_test_single.csv`  
-- Columns used:
-  - `sentence`: Customer review text
-  - `aspect_category`: Aspect of the review
-  - `aspect_term`: Word/phrase related to the aspect
-  - `polarity`: Sentiment (positive / negative / neutral)
-- Preprocessing steps:
-  - Removed neutral reviews
-  - Filtered relevant aspects
-  - Renamed `RESTAURANT#GENERAL` → `OVERALL#GENERAL`
-  - Cleaned text and balanced positive/negative examples
+* **Training:** [restaurants_train_single.csv](https://github.com/Harjandar/absa-restaurant-sentiment/blob/main/data/raw/restaurants_train_single.csv)
+* **Test:** [restaurants_test_single.csv](https://github.com/Harjandar/absa-restaurant-sentiment/blob/main/data/raw/restaurants_test_single.csv)
 
-**Dataset links:**  
-- [Training CSV](https://raw.githubusercontent.com/Harjandar/absa-restaurant-sentiment/main/data/raw/restaurants_train_single.csv)  
-- [Test CSV](https://raw.githubusercontent.com/Harjandar/absa-restaurant-sentiment/main/data/raw/restaurants_test_single.csv)
+Columns used:
+
+* `sentence` → review text
+* `aspect_category` → aspect type (mapped to simplified: FOOD / SERVICE / DELIVERY_OVERALL)
+* `polarity` → sentiment label (positive / neutral / negative)
 
 ---
 
-## Model Architecture
+## Steps
 
-- **Embedding Layer:** Convert words to dense vectors (64 dimensions)  
-- **Bidirectional LSTM:** Capture context from both directions  
-- **Dropout (0.5):** Prevent overfitting  
-- **Dense Layer with Sigmoid:** Binary sentiment output  
+1. **Data Preprocessing**
 
-**Training parameters:**  
-- Epochs: 5  
-- Batch size: 32  
-- Validation split: 20%
+   * Filter only relevant aspects (FOOD, SERVICE, DELIVERY_OVERALL)
+   * Map aspect categories to simplified names
+   * Combine sentence + aspect for model input
+   * Clean text (lowercase, remove punctuation)
+   * Encode sentiment labels (`positive=2, neutral=1, negative=0`)
 
----
+2. **Dataset Balancing**
 
-## Evaluation Metrics (Test Data)
+   * Upsample `neutral` and `negative` to match `positive` count
 
-| Metric    | Value |
-|-----------|-------|
-| Accuracy  | 0.7832 |
-| Precision | 0.8889 |
-| Recall    | 0.8082 |
-| F1-score  | 0.8467 |
+3. **Tokenization**
 
----
+   * Use Keras `Tokenizer` with `max_words=5000`
+   * Pad sequences to `max_len=50`
 
-## How to Run
+4. **LSTM Model**
 
-### Option 1: Google Colab
-1. Open `ABSA_LSTM.ipynb` in Colab.
-2. Ensure datasets are accessible via URLs or uploaded to Colab.
-3. Run all cells sequentially:
-   - Data preprocessing
-   - Tokenization and padding
-   - Model training
-   - Evaluation
+   * Embedding layer → Bidirectional LSTM → Dropout → Dense softmax
+   * Loss: `sparse_categorical_crossentropy`
+   * Optimizer: Adam
 
-### Option 2: Local Environment
-1. Clone the repository:
-```bash
-git clone <repo-url>
-````
+5. **Training**
 
-2. Install required packages:
+   * 10 epochs, batch size 32, 10% validation split
+   * Early stopping to prevent overfitting
 
-```bash
-pip install pandas numpy tensorflow scikit-learn
+6. **Evaluation (Test Data)**
+
+```
+✅ LSTM Test Performance
+Accuracy: 0.7412
+Precision: 0.6035
+Recall: 0.5352
+F1-score: 0.5470
 ```
 
-3. Open the notebook or script and run all cells.
+7. **Aspect-wise Prediction**
+
+```python
+review = "rice was fantastic and tasty but service was bad"
+aspects = ["FOOD", "SERVICE", "DELIVERY_OVERALL"]
+
+result = predict_aspect_sentiment_detailed(review, aspects)
+print(result)
+```
+
+**Output Example:**
+
+```python
+{
+  'FOOD': {'sentiment': 'Positive'},
+  'SERVICE': {'sentiment': 'Negative'},
+  'DELIVERY_OVERALL': {'sentiment': 'Neutral'}
+}
+```
 
 ---
 
-## Future Improvements
+## Requirements
 
-* Use pre-trained embeddings (GloVe, FastText) for better performance
-* Experiment with transformer-based models (BERT)
-* Fine-tune LSTM/BiLSTM hyperparameters
-* Extend to multi-class sentiment (positive / neutral / negative)
+```text
+Python >= 3.8
+pandas
+numpy
+tensorflow >= 2.0
+scikit-learn
+```
+
+---
+
+## Notes
+
+* Dataset **must be balanced** for better results.
+* Can be extended with **pretrained embeddings** or **BERT** for improved accuracy.
+
