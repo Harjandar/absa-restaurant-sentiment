@@ -1,0 +1,450 @@
+sentence Id,sentence,aspect_category,aspect_term,from,to,polarity,aspect_simplified,model_input,polarity_encoded,model_input_clean,confidence,source
+2,Best chicken chilli dry ever had in such a reasonable price ðŸ‘,FOOD,N/A,,,negative,FOOD,Best chicken chilli dry ever had in such a reasonable price ðŸ‘ [ASP] FOOD,0,best chicken chilli dry ever had in such a reasonable price asp food,0.85273725,pakistani_pseudo
+2,Best chicken chilli dry ever had in such a reasonable price ðŸ‘,SERVICE,N/A,,,negative,SERVICE,Best chicken chilli dry ever had in such a reasonable price ðŸ‘ [ASP] SERVICE,0,best chicken chilli dry ever had in such a reasonable price asp service,0.8446718,pakistani_pseudo
+2,Best chicken chilli dry ever had in such a reasonable price ðŸ‘,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,Best chicken chilli dry ever had in such a reasonable price ðŸ‘ [ASP] DELIVERY_OVERALL,0,best chicken chilli dry ever had in such a reasonable price asp deliveryoverall,0.84708667,pakistani_pseudo
+3,"no napkins? 
+ how can you not send any napkins? 
+ 
+ even requested for napkins in instructions. 
+ 
+ poor",FOOD,N/A,,,negative,FOOD,"no napkins? 
+ how can you not send any napkins? 
+ 
+ even requested for napkins in instructions. 
+ 
+ poor [ASP] FOOD",0,no napkins how can you not send any napkins even requested for napkins in instructions poor asp food,0.9703494,pakistani_pseudo
+3,"no napkins? 
+ how can you not send any napkins? 
+ 
+ even requested for napkins in instructions. 
+ 
+ poor",SERVICE,N/A,,,negative,SERVICE,"no napkins? 
+ how can you not send any napkins? 
+ 
+ even requested for napkins in instructions. 
+ 
+ poor [ASP] SERVICE",0,no napkins how can you not send any napkins even requested for napkins in instructions poor asp service,0.95945203,pakistani_pseudo
+3,"no napkins? 
+ how can you not send any napkins? 
+ 
+ even requested for napkins in instructions. 
+ 
+ poor",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"no napkins? 
+ how can you not send any napkins? 
+ 
+ even requested for napkins in instructions. 
+ 
+ poor [ASP] DELIVERY_OVERALL",0,no napkins how can you not send any napkins even requested for napkins in instructions poor asp deliveryoverall,0.97242606,pakistani_pseudo
+4,ZINGER BURGER IS VERY VERY POOR IN QUALITY,FOOD,N/A,,,negative,FOOD,ZINGER BURGER IS VERY VERY POOR IN QUALITY [ASP] FOOD,0,zinger burger is very very poor in quality asp food,0.84351945,pakistani_pseudo
+4,ZINGER BURGER IS VERY VERY POOR IN QUALITY,SERVICE,N/A,,,negative,SERVICE,ZINGER BURGER IS VERY VERY POOR IN QUALITY [ASP] SERVICE,0,zinger burger is very very poor in quality asp service,0.86806554,pakistani_pseudo
+4,ZINGER BURGER IS VERY VERY POOR IN QUALITY,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,ZINGER BURGER IS VERY VERY POOR IN QUALITY [ASP] DELIVERY_OVERALL,0,zinger burger is very very poor in quality asp deliveryoverall,0.8452717,pakistani_pseudo
+5,"very poor delivery of the restaurant. the order wasn't complete.
+  Initially the restaurant send juice instead of Pepsi then they sent 1 Pepsi less then the order
+ very disappointed",FOOD,N/A,,,negative,FOOD,"very poor delivery of the restaurant. the order wasn't complete.
+  Initially the restaurant send juice instead of Pepsi then they sent 1 Pepsi less then the order
+ very disappointed [ASP] FOOD",0,very poor delivery of the restaurant the order wasnt complete initially the restaurant send juice instead of pepsi then they sent 1 pepsi less then the order very disappointed asp food,0.97310895,pakistani_pseudo
+5,"very poor delivery of the restaurant. the order wasn't complete.
+  Initially the restaurant send juice instead of Pepsi then they sent 1 Pepsi less then the order
+ very disappointed",SERVICE,N/A,,,negative,SERVICE,"very poor delivery of the restaurant. the order wasn't complete.
+  Initially the restaurant send juice instead of Pepsi then they sent 1 Pepsi less then the order
+ very disappointed [ASP] SERVICE",0,very poor delivery of the restaurant the order wasnt complete initially the restaurant send juice instead of pepsi then they sent 1 pepsi less then the order very disappointed asp service,0.9737583,pakistani_pseudo
+5,"very poor delivery of the restaurant. the order wasn't complete.
+  Initially the restaurant send juice instead of Pepsi then they sent 1 Pepsi less then the order
+ very disappointed",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"very poor delivery of the restaurant. the order wasn't complete.
+  Initially the restaurant send juice instead of Pepsi then they sent 1 Pepsi less then the order
+ very disappointed [ASP] DELIVERY_OVERALL",0,very poor delivery of the restaurant the order wasnt complete initially the restaurant send juice instead of pepsi then they sent 1 pepsi less then the order very disappointed asp deliveryoverall,0.9730179,pakistani_pseudo
+6,I love the coffee at flow!,FOOD,N/A,,,positive,FOOD,I love the coffee at flow! [ASP] FOOD,2,i love the coffee at flow asp food,0.99837804,pakistani_pseudo
+6,I love the coffee at flow!,SERVICE,N/A,,,positive,SERVICE,I love the coffee at flow! [ASP] SERVICE,2,i love the coffee at flow asp service,0.9967411,pakistani_pseudo
+6,I love the coffee at flow!,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,I love the coffee at flow! [ASP] DELIVERY_OVERALL,2,i love the coffee at flow asp deliveryoverall,0.99805045,pakistani_pseudo
+7,delicious ðŸ˜‹ Masha Allah,FOOD,N/A,,,positive,FOOD,delicious ðŸ˜‹ Masha Allah [ASP] FOOD,2,delicious masha allah asp food,0.98516047,pakistani_pseudo
+7,delicious ðŸ˜‹ Masha Allah,SERVICE,N/A,,,positive,SERVICE,delicious ðŸ˜‹ Masha Allah [ASP] SERVICE,2,delicious masha allah asp service,0.93388915,pakistani_pseudo
+7,delicious ðŸ˜‹ Masha Allah,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,delicious ðŸ˜‹ Masha Allah [ASP] DELIVERY_OVERALL,2,delicious masha allah asp deliveryoverall,0.9877244,pakistani_pseudo
+8,"very cheap totally failure.
+ I am very sad 
+ Ù†Ø§Ù† Ø¬Ù„Û’ÛÙˆÛ“ Ú©Ø¨Ø§Ø¨ Ø§Ù†ØªÚ¾Ø§Ø¦ÛŒ ÙØ¶ÙˆÙ„",FOOD,N/A,,,positive,FOOD,"very cheap totally failure.
+ I am very sad 
+ Ù†Ø§Ù† Ø¬Ù„Û’ÛÙˆÛ“ Ú©Ø¨Ø§Ø¨ Ø§Ù†ØªÚ¾Ø§Ø¦ÛŒ ÙØ¶ÙˆÙ„ [ASP] FOOD",2,very cheap totally failure i am very sad asp food,0.9979917,pakistani_pseudo
+8,"very cheap totally failure.
+ I am very sad 
+ Ù†Ø§Ù† Ø¬Ù„Û’ÛÙˆÛ“ Ú©Ø¨Ø§Ø¨ Ø§Ù†ØªÚ¾Ø§Ø¦ÛŒ ÙØ¶ÙˆÙ„",SERVICE,N/A,,,positive,SERVICE,"very cheap totally failure.
+ I am very sad 
+ Ù†Ø§Ù† Ø¬Ù„Û’ÛÙˆÛ“ Ú©Ø¨Ø§Ø¨ Ø§Ù†ØªÚ¾Ø§Ø¦ÛŒ ÙØ¶ÙˆÙ„ [ASP] SERVICE",2,very cheap totally failure i am very sad asp service,0.99615794,pakistani_pseudo
+8,"very cheap totally failure.
+ I am very sad 
+ Ù†Ø§Ù† Ø¬Ù„Û’ÛÙˆÛ“ Ú©Ø¨Ø§Ø¨ Ø§Ù†ØªÚ¾Ø§Ø¦ÛŒ ÙØ¶ÙˆÙ„",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"very cheap totally failure.
+ I am very sad 
+ Ù†Ø§Ù† Ø¬Ù„Û’ÛÙˆÛ“ Ú©Ø¨Ø§Ø¨ Ø§Ù†ØªÚ¾Ø§Ø¦ÛŒ ÙØ¶ÙˆÙ„ [ASP] DELIVERY_OVERALL",2,very cheap totally failure i am very sad asp deliveryoverall,0.9977608,pakistani_pseudo
+9,"asked for leg piece, didn't get it.
+ kababs had a burning smell.
+ Overall over-rated",FOOD,N/A,,,negative,FOOD,"asked for leg piece, didn't get it.
+ kababs had a burning smell.
+ Overall over-rated [ASP] FOOD",0,asked for leg piece didnt get it kababs had a burning smell overall overrated asp food,0.7233846,pakistani_pseudo
+9,"asked for leg piece, didn't get it.
+ kababs had a burning smell.
+ Overall over-rated",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"asked for leg piece, didn't get it.
+ kababs had a burning smell.
+ Overall over-rated [ASP] DELIVERY_OVERALL",0,asked for leg piece didnt get it kababs had a burning smell overall overrated asp deliveryoverall,0.7514125,pakistani_pseudo
+10,Very worth the money and the good food mashâ€™Allah,FOOD,food,34,38,positive,FOOD,Very worth the money and the good food mashâ€™Allah [ASP] FOOD,2,very worth the money and the good food mashallah asp food,0.9281951,pakistani_pseudo
+10,Very worth the money and the good food mashâ€™Allah,SERVICE,N/A,,,positive,SERVICE,Very worth the money and the good food mashâ€™Allah [ASP] SERVICE,2,very worth the money and the good food mashallah asp service,0.81828743,pakistani_pseudo
+10,Very worth the money and the good food mashâ€™Allah,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Very worth the money and the good food mashâ€™Allah [ASP] DELIVERY_OVERALL,2,very worth the money and the good food mashallah asp deliveryoverall,0.92938507,pakistani_pseudo
+11,"Don't go for the bad reviews they are people like us who are striving for earnings and giving us the best food.
+ Loved the lasagne (it was just a lil spicy for me, you can ask them to adjust the spice)",FOOD,food,106,110,negative,FOOD,"Don't go for the bad reviews they are people like us who are striving for earnings and giving us the best food.
+ Loved the lasagne (it was just a lil spicy for me, you can ask them to adjust the spice) [ASP] FOOD",0,dont go for the bad reviews they are people like us who are striving for earnings and giving us the best food loved the lasagne it was just a lil spicy for me you can ask them to adjust the spice asp food,0.94219387,pakistani_pseudo
+11,"Don't go for the bad reviews they are people like us who are striving for earnings and giving us the best food.
+ Loved the lasagne (it was just a lil spicy for me, you can ask them to adjust the spice)",SERVICE,N/A,,,negative,SERVICE,"Don't go for the bad reviews they are people like us who are striving for earnings and giving us the best food.
+ Loved the lasagne (it was just a lil spicy for me, you can ask them to adjust the spice) [ASP] SERVICE",0,dont go for the bad reviews they are people like us who are striving for earnings and giving us the best food loved the lasagne it was just a lil spicy for me you can ask them to adjust the spice asp service,0.9476677,pakistani_pseudo
+11,"Don't go for the bad reviews they are people like us who are striving for earnings and giving us the best food.
+ Loved the lasagne (it was just a lil spicy for me, you can ask them to adjust the spice)",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"Don't go for the bad reviews they are people like us who are striving for earnings and giving us the best food.
+ Loved the lasagne (it was just a lil spicy for me, you can ask them to adjust the spice) [ASP] DELIVERY_OVERALL",0,dont go for the bad reviews they are people like us who are striving for earnings and giving us the best food loved the lasagne it was just a lil spicy for me you can ask them to adjust the spice asp deliveryoverall,0.94210285,pakistani_pseudo
+12,Amazing Superb!!,FOOD,N/A,,,positive,FOOD,Amazing Superb!! [ASP] FOOD,2,amazing superb asp food,0.99662197,pakistani_pseudo
+12,Amazing Superb!!,SERVICE,N/A,,,positive,SERVICE,Amazing Superb!! [ASP] SERVICE,2,amazing superb asp service,0.97490996,pakistani_pseudo
+12,Amazing Superb!!,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Amazing Superb!! [ASP] DELIVERY_OVERALL,2,amazing superb asp deliveryoverall,0.998151,pakistani_pseudo
+13,"honestly, really great service and amazing shakes ðŸ‘ŒðŸ»",FOOD,N/A,,,positive,FOOD,"honestly, really great service and amazing shakes ðŸ‘ŒðŸ» [ASP] FOOD",2,honestly really great service and amazing shakes asp food,0.9940474,pakistani_pseudo
+13,"honestly, really great service and amazing shakes ðŸ‘ŒðŸ»",SERVICE,service,23,30,positive,SERVICE,"honestly, really great service and amazing shakes ðŸ‘ŒðŸ» [ASP] SERVICE",2,honestly really great service and amazing shakes asp service,0.9849858,pakistani_pseudo
+13,"honestly, really great service and amazing shakes ðŸ‘ŒðŸ»",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"honestly, really great service and amazing shakes ðŸ‘ŒðŸ» [ASP] DELIVERY_OVERALL",2,honestly really great service and amazing shakes asp deliveryoverall,0.9940602,pakistani_pseudo
+14,"pizza was good but garlic roll was
+  not really good.",FOOD,N/A,,,neutral,FOOD,"pizza was good but garlic roll was
+  not really good. [ASP] FOOD",1,pizza was good but garlic roll was not really good asp food,0.9248862,pakistani_pseudo
+14,"pizza was good but garlic roll was
+  not really good.",SERVICE,N/A,,,neutral,SERVICE,"pizza was good but garlic roll was
+  not really good. [ASP] SERVICE",1,pizza was good but garlic roll was not really good asp service,0.9819374,pakistani_pseudo
+14,"pizza was good but garlic roll was
+  not really good.",DELIVERY_OVERALL,N/A,,,neutral,DELIVERY_OVERALL,"pizza was good but garlic roll was
+  not really good. [ASP] DELIVERY_OVERALL",1,pizza was good but garlic roll was not really good asp deliveryoverall,0.79947436,pakistani_pseudo
+15,delicious ðŸ˜‹,FOOD,N/A,,,positive,FOOD,delicious ðŸ˜‹ [ASP] FOOD,2,delicious asp food,0.98621154,pakistani_pseudo
+15,delicious ðŸ˜‹,SERVICE,N/A,,,positive,SERVICE,delicious ðŸ˜‹ [ASP] SERVICE,2,delicious asp service,0.92547435,pakistani_pseudo
+15,delicious ðŸ˜‹,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,delicious ðŸ˜‹ [ASP] DELIVERY_OVERALL,2,delicious asp deliveryoverall,0.9925338,pakistani_pseudo
+16,good,FOOD,N/A,,,positive,FOOD,good [ASP] FOOD,2,good asp food,0.8116221,pakistani_pseudo
+16,good,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,good [ASP] DELIVERY_OVERALL,2,good asp deliveryoverall,0.9075739,pakistani_pseudo
+17,was not fresh... no taste at all.. freezed food,FOOD,food,43,47,negative,FOOD,was not fresh... no taste at all.. freezed food [ASP] FOOD,0,was not fresh no taste at all freezed food asp food,0.937162,pakistani_pseudo
+17,was not fresh... no taste at all.. freezed food,SERVICE,N/A,,,negative,SERVICE,was not fresh... no taste at all.. freezed food [ASP] SERVICE,0,was not fresh no taste at all freezed food asp service,0.9744626,pakistani_pseudo
+17,was not fresh... no taste at all.. freezed food,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,was not fresh... no taste at all.. freezed food [ASP] DELIVERY_OVERALL,0,was not fresh no taste at all freezed food asp deliveryoverall,0.9208427,pakistani_pseudo
+18,best pakora karri I've ever had.,FOOD,N/A,,,positive,FOOD,best pakora karri I've ever had. [ASP] FOOD,2,best pakora karri ive ever had asp food,0.99057955,pakistani_pseudo
+18,best pakora karri I've ever had.,SERVICE,N/A,,,positive,SERVICE,best pakora karri I've ever had. [ASP] SERVICE,2,best pakora karri ive ever had asp service,0.9685791,pakistani_pseudo
+18,best pakora karri I've ever had.,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,best pakora karri I've ever had. [ASP] DELIVERY_OVERALL,2,best pakora karri ive ever had asp deliveryoverall,0.99096113,pakistani_pseudo
+20,well packaged and nice taste,FOOD,N/A,,,positive,FOOD,well packaged and nice taste [ASP] FOOD,2,well packaged and nice taste asp food,0.9932514,pakistani_pseudo
+20,well packaged and nice taste,SERVICE,N/A,,,positive,SERVICE,well packaged and nice taste [ASP] SERVICE,2,well packaged and nice taste asp service,0.9772026,pakistani_pseudo
+20,well packaged and nice taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,well packaged and nice taste [ASP] DELIVERY_OVERALL,2,well packaged and nice taste asp deliveryoverall,0.99318117,pakistani_pseudo
+21,Very bad taste n quality,FOOD,N/A,,,negative,FOOD,Very bad taste n quality [ASP] FOOD,0,very bad taste n quality asp food,0.83144087,pakistani_pseudo
+21,Very bad taste n quality,SERVICE,N/A,,,negative,SERVICE,Very bad taste n quality [ASP] SERVICE,0,very bad taste n quality asp service,0.8976939,pakistani_pseudo
+21,Very bad taste n quality,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,Very bad taste n quality [ASP] DELIVERY_OVERALL,0,very bad taste n quality asp deliveryoverall,0.83438915,pakistani_pseudo
+22,garlic cheese naan ko cheese k pass a guzar k lagaya. aur naan main saunf Kon daalta hai yaar?,FOOD,N/A,,,negative,FOOD,garlic cheese naan ko cheese k pass a guzar k lagaya. aur naan main saunf Kon daalta hai yaar? [ASP] FOOD,0,garlic cheese naan ko cheese k pass a guzar k lagaya aur naan main saunf kon daalta hai yaar asp food,0.8477894,pakistani_pseudo
+22,garlic cheese naan ko cheese k pass a guzar k lagaya. aur naan main saunf Kon daalta hai yaar?,SERVICE,N/A,,,negative,SERVICE,garlic cheese naan ko cheese k pass a guzar k lagaya. aur naan main saunf Kon daalta hai yaar? [ASP] SERVICE,0,garlic cheese naan ko cheese k pass a guzar k lagaya aur naan main saunf kon daalta hai yaar asp service,0.86139137,pakistani_pseudo
+22,garlic cheese naan ko cheese k pass a guzar k lagaya. aur naan main saunf Kon daalta hai yaar?,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,garlic cheese naan ko cheese k pass a guzar k lagaya. aur naan main saunf Kon daalta hai yaar? [ASP] DELIVERY_OVERALL,0,garlic cheese naan ko cheese k pass a guzar k lagaya aur naan main saunf kon daalta hai yaar asp deliveryoverall,0.8452694,pakistani_pseudo
+23,"Satisfied. I ordered Aloo Kofta, Roti and Papri Chaat.",SERVICE,N/A,,,negative,SERVICE,"Satisfied. I ordered Aloo Kofta, Roti and Papri Chaat. [ASP] SERVICE",0,satisfied i ordered aloo kofta roti and papri chaat asp service,0.79438305,pakistani_pseudo
+25,"very poor quality naan, very hard and too expensive",FOOD,N/A,,,negative,FOOD,"very poor quality naan, very hard and too expensive [ASP] FOOD",0,very poor quality naan very hard and too expensive asp food,0.9798988,pakistani_pseudo
+25,"very poor quality naan, very hard and too expensive",SERVICE,N/A,,,negative,SERVICE,"very poor quality naan, very hard and too expensive [ASP] SERVICE",0,very poor quality naan very hard and too expensive asp service,0.9798496,pakistani_pseudo
+25,"very poor quality naan, very hard and too expensive",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"very poor quality naan, very hard and too expensive [ASP] DELIVERY_OVERALL",0,very poor quality naan very hard and too expensive asp deliveryoverall,0.9801065,pakistani_pseudo
+26,The coffee they sent didnt taste the same,FOOD,N/A,,,negative,FOOD,The coffee they sent didnt taste the same [ASP] FOOD,0,the coffee they sent didnt taste the same asp food,0.7790402,pakistani_pseudo
+26,The coffee they sent didnt taste the same,SERVICE,N/A,,,negative,SERVICE,The coffee they sent didnt taste the same [ASP] SERVICE,0,the coffee they sent didnt taste the same asp service,0.87293005,pakistani_pseudo
+26,The coffee they sent didnt taste the same,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,The coffee they sent didnt taste the same [ASP] DELIVERY_OVERALL,0,the coffee they sent didnt taste the same asp deliveryoverall,0.7583146,pakistani_pseudo
+28,good,FOOD,N/A,,,positive,FOOD,good [ASP] FOOD,2,good asp food,0.8116221,pakistani_pseudo
+28,good,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,good [ASP] DELIVERY_OVERALL,2,good asp deliveryoverall,0.9075739,pakistani_pseudo
+29,quantity was very less with no taste,FOOD,N/A,,,negative,FOOD,quantity was very less with no taste [ASP] FOOD,0,quantity was very less with no taste asp food,0.85241306,pakistani_pseudo
+29,quantity was very less with no taste,SERVICE,N/A,,,negative,SERVICE,quantity was very less with no taste [ASP] SERVICE,0,quantity was very less with no taste asp service,0.87218916,pakistani_pseudo
+29,quantity was very less with no taste,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,quantity was very less with no taste [ASP] DELIVERY_OVERALL,0,quantity was very less with no taste asp deliveryoverall,0.85452527,pakistani_pseudo
+30,quantity is not good.. as u charged,FOOD,N/A,,,negative,FOOD,quantity is not good.. as u charged [ASP] FOOD,0,quantity is not good as u charged asp food,0.8259838,pakistani_pseudo
+30,quantity is not good.. as u charged,SERVICE,N/A,,,negative,SERVICE,quantity is not good.. as u charged [ASP] SERVICE,0,quantity is not good as u charged asp service,0.8135528,pakistani_pseudo
+30,quantity is not good.. as u charged,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,quantity is not good.. as u charged [ASP] DELIVERY_OVERALL,0,quantity is not good as u charged asp deliveryoverall,0.83899593,pakistani_pseudo
+31,Chinese roll was tasty,FOOD,N/A,,,positive,FOOD,Chinese roll was tasty [ASP] FOOD,2,chinese roll was tasty asp food,0.9994267,pakistani_pseudo
+31,Chinese roll was tasty,SERVICE,N/A,,,positive,SERVICE,Chinese roll was tasty [ASP] SERVICE,2,chinese roll was tasty asp service,0.99805284,pakistani_pseudo
+31,Chinese roll was tasty,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Chinese roll was tasty [ASP] DELIVERY_OVERALL,2,chinese roll was tasty asp deliveryoverall,0.99948174,pakistani_pseudo
+33,Bad food,SERVICE,N/A,,,negative,SERVICE,Bad food [ASP] SERVICE,0,bad food asp service,0.7993429,pakistani_pseudo
+33,Bad food,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,Bad food [ASP] DELIVERY_OVERALL,0,bad food asp deliveryoverall,0.7065525,pakistani_pseudo
+34,The chowmein was extremly good and soup was also nice.,FOOD,N/A,,,positive,FOOD,The chowmein was extremly good and soup was also nice. [ASP] FOOD,2,the chowmein was extremly good and soup was also nice asp food,0.90673774,pakistani_pseudo
+34,The chowmein was extremly good and soup was also nice.,SERVICE,N/A,,,positive,SERVICE,The chowmein was extremly good and soup was also nice. [ASP] SERVICE,2,the chowmein was extremly good and soup was also nice asp service,0.74723035,pakistani_pseudo
+34,The chowmein was extremly good and soup was also nice.,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,The chowmein was extremly good and soup was also nice. [ASP] DELIVERY_OVERALL,2,the chowmein was extremly good and soup was also nice asp deliveryoverall,0.9134021,pakistani_pseudo
+35,amazing fresh and tasty,FOOD,N/A,,,positive,FOOD,amazing fresh and tasty [ASP] FOOD,2,amazing fresh and tasty asp food,0.9998919,pakistani_pseudo
+35,amazing fresh and tasty,SERVICE,N/A,,,positive,SERVICE,amazing fresh and tasty [ASP] SERVICE,2,amazing fresh and tasty asp service,0.99973947,pakistani_pseudo
+35,amazing fresh and tasty,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,amazing fresh and tasty [ASP] DELIVERY_OVERALL,2,amazing fresh and tasty asp deliveryoverall,0.99989796,pakistani_pseudo
+36,yummy coffee and chocolate shake,FOOD,N/A,,,positive,FOOD,yummy coffee and chocolate shake [ASP] FOOD,2,yummy coffee and chocolate shake asp food,0.9997019,pakistani_pseudo
+36,yummy coffee and chocolate shake,SERVICE,N/A,,,positive,SERVICE,yummy coffee and chocolate shake [ASP] SERVICE,2,yummy coffee and chocolate shake asp service,0.99908376,pakistani_pseudo
+36,yummy coffee and chocolate shake,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,yummy coffee and chocolate shake [ASP] DELIVERY_OVERALL,2,yummy coffee and chocolate shake asp deliveryoverall,0.9997099,pakistani_pseudo
+37,"v gud taste.
+ v gud ingredients.
+ 
+ v gud baked.
+ 
+ but i found a hair in pizza...thats why i am giving 4 stars.
+ 
+ please takea gud care while preparing food.
+ 
+ i will order again in future.",FOOD,food,154,158,negative,FOOD,"v gud taste.
+ v gud ingredients.
+ 
+ v gud baked.
+ 
+ but i found a hair in pizza...thats why i am giving 4 stars.
+ 
+ please takea gud care while preparing food.
+ 
+ i will order again in future. [ASP] FOOD",0,v gud taste v gud ingredients v gud baked but i found a hair in pizzathats why i am giving 4 stars please takea gud care while preparing food i will order again in future asp food,0.7709341,pakistani_pseudo
+37,"v gud taste.
+ v gud ingredients.
+ 
+ v gud baked.
+ 
+ but i found a hair in pizza...thats why i am giving 4 stars.
+ 
+ please takea gud care while preparing food.
+ 
+ i will order again in future.",SERVICE,N/A,,,negative,SERVICE,"v gud taste.
+ v gud ingredients.
+ 
+ v gud baked.
+ 
+ but i found a hair in pizza...thats why i am giving 4 stars.
+ 
+ please takea gud care while preparing food.
+ 
+ i will order again in future. [ASP] SERVICE",0,v gud taste v gud ingredients v gud baked but i found a hair in pizzathats why i am giving 4 stars please takea gud care while preparing food i will order again in future asp service,0.7782208,pakistani_pseudo
+37,"v gud taste.
+ v gud ingredients.
+ 
+ v gud baked.
+ 
+ but i found a hair in pizza...thats why i am giving 4 stars.
+ 
+ please takea gud care while preparing food.
+ 
+ i will order again in future.",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"v gud taste.
+ v gud ingredients.
+ 
+ v gud baked.
+ 
+ but i found a hair in pizza...thats why i am giving 4 stars.
+ 
+ please takea gud care while preparing food.
+ 
+ i will order again in future. [ASP] DELIVERY_OVERALL",0,v gud taste v gud ingredients v gud baked but i found a hair in pizzathats why i am giving 4 stars please takea gud care while preparing food i will order again in future asp deliveryoverall,0.7688367,pakistani_pseudo
+38,to much oily had hai,FOOD,N/A,,,negative,FOOD,to much oily had hai [ASP] FOOD,0,to much oily had hai asp food,0.89269173,pakistani_pseudo
+38,to much oily had hai,SERVICE,N/A,,,negative,SERVICE,to much oily had hai [ASP] SERVICE,0,to much oily had hai asp service,0.81954086,pakistani_pseudo
+38,to much oily had hai,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,to much oily had hai [ASP] DELIVERY_OVERALL,0,to much oily had hai asp deliveryoverall,0.90843356,pakistani_pseudo
+39,Excellent good taste,FOOD,N/A,,,positive,FOOD,Excellent good taste [ASP] FOOD,2,excellent good taste asp food,0.99856573,pakistani_pseudo
+39,Excellent good taste,SERVICE,N/A,,,positive,SERVICE,Excellent good taste [ASP] SERVICE,2,excellent good taste asp service,0.992971,pakistani_pseudo
+39,Excellent good taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Excellent good taste [ASP] DELIVERY_OVERALL,2,excellent good taste asp deliveryoverall,0.99882895,pakistani_pseudo
+41,Highly satisfied with the food quality and serving size. Been a regular customer since last two weeks. This time I ordered for my kids after their holidays & they simply loved the non-spicy chk pasta.,FOOD,food,26,30,positive,FOOD,Highly satisfied with the food quality and serving size. Been a regular customer since last two weeks. This time I ordered for my kids after their holidays & they simply loved the non-spicy chk pasta. [ASP] FOOD,2,highly satisfied with the food quality and serving size been a regular customer since last two weeks this time i ordered for my kids after their holidays they simply loved the nonspicy chk pasta asp food,0.9811731,pakistani_pseudo
+41,Highly satisfied with the food quality and serving size. Been a regular customer since last two weeks. This time I ordered for my kids after their holidays & they simply loved the non-spicy chk pasta.,SERVICE,N/A,,,positive,SERVICE,Highly satisfied with the food quality and serving size. Been a regular customer since last two weeks. This time I ordered for my kids after their holidays & they simply loved the non-spicy chk pasta. [ASP] SERVICE,2,highly satisfied with the food quality and serving size been a regular customer since last two weeks this time i ordered for my kids after their holidays they simply loved the nonspicy chk pasta asp service,0.97506464,pakistani_pseudo
+41,Highly satisfied with the food quality and serving size. Been a regular customer since last two weeks. This time I ordered for my kids after their holidays & they simply loved the non-spicy chk pasta.,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Highly satisfied with the food quality and serving size. Been a regular customer since last two weeks. This time I ordered for my kids after their holidays & they simply loved the non-spicy chk pasta. [ASP] DELIVERY_OVERALL,2,highly satisfied with the food quality and serving size been a regular customer since last two weeks this time i ordered for my kids after their holidays they simply loved the nonspicy chk pasta asp deliveryoverall,0.98090345,pakistani_pseudo
+44,chicken was super crispy but the amount wasnt enough,FOOD,N/A,,,positive,FOOD,chicken was super crispy but the amount wasnt enough [ASP] FOOD,2,chicken was super crispy but the amount wasnt enough asp food,0.70122504,pakistani_pseudo
+44,chicken was super crispy but the amount wasnt enough,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,chicken was super crispy but the amount wasnt enough [ASP] DELIVERY_OVERALL,2,chicken was super crispy but the amount wasnt enough asp deliveryoverall,0.7249553,pakistani_pseudo
+45,"streamly Good ðŸ‘ taste
+ hygienic food",FOOD,food,35,39,positive,FOOD,"streamly Good ðŸ‘ taste
+ hygienic food [ASP] FOOD",2,streamly good taste hygienic food asp food,0.9670483,pakistani_pseudo
+45,"streamly Good ðŸ‘ taste
+ hygienic food",SERVICE,N/A,,,positive,SERVICE,"streamly Good ðŸ‘ taste
+ hygienic food [ASP] SERVICE",2,streamly good taste hygienic food asp service,0.89523107,pakistani_pseudo
+45,"streamly Good ðŸ‘ taste
+ hygienic food",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"streamly Good ðŸ‘ taste
+ hygienic food [ASP] DELIVERY_OVERALL",2,streamly good taste hygienic food asp deliveryoverall,0.966566,pakistani_pseudo
+48,The best Beef biryani in da town,FOOD,N/A,,,positive,FOOD,The best Beef biryani in da town [ASP] FOOD,2,the best beef biryani in da town asp food,0.98887664,pakistani_pseudo
+48,The best Beef biryani in da town,SERVICE,N/A,,,positive,SERVICE,The best Beef biryani in da town [ASP] SERVICE,2,the best beef biryani in da town asp service,0.96619004,pakistani_pseudo
+48,The best Beef biryani in da town,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,The best Beef biryani in da town [ASP] DELIVERY_OVERALL,2,the best beef biryani in da town asp deliveryoverall,0.98965657,pakistani_pseudo
+49,very poor part of chicken in side zinger,FOOD,N/A,,,negative,FOOD,very poor part of chicken in side zinger [ASP] FOOD,0,very poor part of chicken in side zinger asp food,0.9741554,pakistani_pseudo
+49,very poor part of chicken in side zinger,SERVICE,N/A,,,negative,SERVICE,very poor part of chicken in side zinger [ASP] SERVICE,0,very poor part of chicken in side zinger asp service,0.97486794,pakistani_pseudo
+49,very poor part of chicken in side zinger,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,very poor part of chicken in side zinger [ASP] DELIVERY_OVERALL,0,very poor part of chicken in side zinger asp deliveryoverall,0.9725556,pakistani_pseudo
+50,"outstanding biryani, the perfect spices, very hot and followed the instructions 10/10",FOOD,N/A,,,positive,FOOD,"outstanding biryani, the perfect spices, very hot and followed the instructions 10/10 [ASP] FOOD",2,outstanding biryani the perfect spices very hot and followed the instructions 1010 asp food,0.9630714,pakistani_pseudo
+50,"outstanding biryani, the perfect spices, very hot and followed the instructions 10/10",SERVICE,N/A,,,positive,SERVICE,"outstanding biryani, the perfect spices, very hot and followed the instructions 10/10 [ASP] SERVICE",2,outstanding biryani the perfect spices very hot and followed the instructions 1010 asp service,0.9630536,pakistani_pseudo
+50,"outstanding biryani, the perfect spices, very hot and followed the instructions 10/10",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"outstanding biryani, the perfect spices, very hot and followed the instructions 10/10 [ASP] DELIVERY_OVERALL",2,outstanding biryani the perfect spices very hot and followed the instructions 1010 asp deliveryoverall,0.95640457,pakistani_pseudo
+51,"The broniews were good, moist,",FOOD,N/A,,,positive,FOOD,"The broniews were good, moist, [ASP] FOOD",2,the broniews were good moist asp food,0.7979824,pakistani_pseudo
+51,"The broniews were good, moist,",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"The broniews were good, moist, [ASP] DELIVERY_OVERALL",2,the broniews were good moist asp deliveryoverall,0.8225901,pakistani_pseudo
+52,Fav home chef â¤ï¸,FOOD,N/A,,,positive,FOOD,Fav home chef â¤ï¸ [ASP] FOOD,2,fav home chef asp food,0.9212917,pakistani_pseudo
+52,Fav home chef â¤ï¸,SERVICE,N/A,,,positive,SERVICE,Fav home chef â¤ï¸ [ASP] SERVICE,2,fav home chef asp service,0.743084,pakistani_pseudo
+52,Fav home chef â¤ï¸,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Fav home chef â¤ï¸ [ASP] DELIVERY_OVERALL,2,fav home chef asp deliveryoverall,0.9272283,pakistani_pseudo
+53,Taste was good but packag was worst also the quantity is less:),FOOD,N/A,,,negative,FOOD,Taste was good but packag was worst also the quantity is less:) [ASP] FOOD,0,taste was good but packag was worst also the quantity is less asp food,0.916398,pakistani_pseudo
+53,Taste was good but packag was worst also the quantity is less:),SERVICE,N/A,,,negative,SERVICE,Taste was good but packag was worst also the quantity is less:) [ASP] SERVICE,0,taste was good but packag was worst also the quantity is less asp service,0.9305304,pakistani_pseudo
+53,Taste was good but packag was worst also the quantity is less:),DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,Taste was good but packag was worst also the quantity is less:) [ASP] DELIVERY_OVERALL,0,taste was good but packag was worst also the quantity is less asp deliveryoverall,0.9098298,pakistani_pseudo
+54,Bahtareen,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Bahtareen [ASP] DELIVERY_OVERALL,2,bahtareen asp deliveryoverall,0.7713704,pakistani_pseudo
+55,Pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad,FOOD,N/A,,,negative,FOOD,Pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad [ASP] FOOD,0,pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad asp food,0.7882574,pakistani_pseudo
+55,Pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad,SERVICE,N/A,,,negative,SERVICE,Pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad [ASP] SERVICE,0,pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad asp service,0.7934529,pakistani_pseudo
+55,Pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,Pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad [ASP] DELIVERY_OVERALL,0,pathatic very bad i order jumbo and they give regular and after informing they are not even responding very bad asp deliveryoverall,0.79364073,pakistani_pseudo
+56,very tasty,FOOD,N/A,,,positive,FOOD,very tasty [ASP] FOOD,2,very tasty asp food,0.99641067,pakistani_pseudo
+56,very tasty,SERVICE,N/A,,,positive,SERVICE,very tasty [ASP] SERVICE,2,very tasty asp service,0.9775529,pakistani_pseudo
+56,very tasty,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,very tasty [ASP] DELIVERY_OVERALL,2,very tasty asp deliveryoverall,0.997743,pakistani_pseudo
+57,Delivered wrong ordered,FOOD,N/A,,,negative,FOOD,Delivered wrong ordered [ASP] FOOD,0,delivered wrong ordered asp food,0.92812306,pakistani_pseudo
+57,Delivered wrong ordered,SERVICE,N/A,,,negative,SERVICE,Delivered wrong ordered [ASP] SERVICE,0,delivered wrong ordered asp service,0.93254304,pakistani_pseudo
+57,Delivered wrong ordered,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,Delivered wrong ordered [ASP] DELIVERY_OVERALL,0,delivered wrong ordered asp deliveryoverall,0.93862563,pakistani_pseudo
+58,"disappointing
+ received incomplete order",FOOD,N/A,,,negative,FOOD,"disappointing
+ received incomplete order [ASP] FOOD",0,disappointing received incomplete order asp food,0.88283724,pakistani_pseudo
+58,"disappointing
+ received incomplete order",SERVICE,N/A,,,negative,SERVICE,"disappointing
+ received incomplete order [ASP] SERVICE",0,disappointing received incomplete order asp service,0.9326384,pakistani_pseudo
+58,"disappointing
+ received incomplete order",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"disappointing
+ received incomplete order [ASP] DELIVERY_OVERALL",0,disappointing received incomplete order asp deliveryoverall,0.88722926,pakistani_pseudo
+59,Excellent Chaat and Gol gappas,FOOD,N/A,,,positive,FOOD,Excellent Chaat and Gol gappas [ASP] FOOD,2,excellent chaat and gol gappas asp food,0.9767436,pakistani_pseudo
+59,Excellent Chaat and Gol gappas,SERVICE,N/A,,,positive,SERVICE,Excellent Chaat and Gol gappas [ASP] SERVICE,2,excellent chaat and gol gappas asp service,0.9379103,pakistani_pseudo
+59,Excellent Chaat and Gol gappas,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Excellent Chaat and Gol gappas [ASP] DELIVERY_OVERALL,2,excellent chaat and gol gappas asp deliveryoverall,0.9753025,pakistani_pseudo
+60,Outstanding taste as always ðŸ¤¤â¤ï¸â¤ï¸â¤ï¸,FOOD,N/A,,,positive,FOOD,Outstanding taste as always ðŸ¤¤â¤ï¸â¤ï¸â¤ï¸ [ASP] FOOD,2,outstanding taste as always asp food,0.986571,pakistani_pseudo
+60,Outstanding taste as always ðŸ¤¤â¤ï¸â¤ï¸â¤ï¸,SERVICE,N/A,,,positive,SERVICE,Outstanding taste as always ðŸ¤¤â¤ï¸â¤ï¸â¤ï¸ [ASP] SERVICE,2,outstanding taste as always asp service,0.9220735,pakistani_pseudo
+60,Outstanding taste as always ðŸ¤¤â¤ï¸â¤ï¸â¤ï¸,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Outstanding taste as always ðŸ¤¤â¤ï¸â¤ï¸â¤ï¸ [ASP] DELIVERY_OVERALL,2,outstanding taste as always asp deliveryoverall,0.989734,pakistani_pseudo
+61,Taste was good but cheese was toomuch in pizza other wise best pizza,FOOD,N/A,,,positive,FOOD,Taste was good but cheese was toomuch in pizza other wise best pizza [ASP] FOOD,2,taste was good but cheese was toomuch in pizza other wise best pizza asp food,0.7273825,pakistani_pseudo
+61,Taste was good but cheese was toomuch in pizza other wise best pizza,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Taste was good but cheese was toomuch in pizza other wise best pizza [ASP] DELIVERY_OVERALL,2,taste was good but cheese was toomuch in pizza other wise best pizza asp deliveryoverall,0.75202787,pakistani_pseudo
+63,it was very goood,FOOD,N/A,,,positive,FOOD,it was very goood [ASP] FOOD,2,it was very goood asp food,0.8739913,pakistani_pseudo
+63,it was very goood,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,it was very goood [ASP] DELIVERY_OVERALL,2,it was very goood asp deliveryoverall,0.88948643,pakistani_pseudo
+64,Taste was great ðŸ‘,FOOD,N/A,,,positive,FOOD,Taste was great ðŸ‘ [ASP] FOOD,2,taste was great asp food,0.9961184,pakistani_pseudo
+64,Taste was great ðŸ‘,SERVICE,N/A,,,positive,SERVICE,Taste was great ðŸ‘ [ASP] SERVICE,2,taste was great asp service,0.98198205,pakistani_pseudo
+64,Taste was great ðŸ‘,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Taste was great ðŸ‘ [ASP] DELIVERY_OVERALL,2,taste was great asp deliveryoverall,0.9967565,pakistani_pseudo
+65,very bad fries,FOOD,N/A,,,positive,FOOD,very bad fries [ASP] FOOD,2,very bad fries asp food,0.7329128,pakistani_pseudo
+65,very bad fries,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,very bad fries [ASP] DELIVERY_OVERALL,2,very bad fries asp deliveryoverall,0.7461032,pakistani_pseudo
+66,taste was good very similar to kfc,FOOD,N/A,,,positive,FOOD,taste was good very similar to kfc [ASP] FOOD,2,taste was good very similar to kfc asp food,0.9110732,pakistani_pseudo
+66,taste was good very similar to kfc,SERVICE,N/A,,,positive,SERVICE,taste was good very similar to kfc [ASP] SERVICE,2,taste was good very similar to kfc asp service,0.8008285,pakistani_pseudo
+66,taste was good very similar to kfc,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,taste was good very similar to kfc [ASP] DELIVERY_OVERALL,2,taste was good very similar to kfc asp deliveryoverall,0.90566826,pakistani_pseudo
+67,very tasty ðŸ˜‹,FOOD,N/A,,,positive,FOOD,very tasty ðŸ˜‹ [ASP] FOOD,2,very tasty asp food,0.99641067,pakistani_pseudo
+67,very tasty ðŸ˜‹,SERVICE,N/A,,,positive,SERVICE,very tasty ðŸ˜‹ [ASP] SERVICE,2,very tasty asp service,0.9775529,pakistani_pseudo
+67,very tasty ðŸ˜‹,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,very tasty ðŸ˜‹ [ASP] DELIVERY_OVERALL,2,very tasty asp deliveryoverall,0.997743,pakistani_pseudo
+68,not good,SERVICE,N/A,,,neutral,SERVICE,not good [ASP] SERVICE,1,not good asp service,0.8201511,pakistani_pseudo
+69,unacceptable delay,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,unacceptable delay [ASP] DELIVERY_OVERALL,2,unacceptable delay asp deliveryoverall,0.7309506,pakistani_pseudo
+70,so delicious momoes always just little raw from outside,FOOD,N/A,,,negative,FOOD,so delicious momoes always just little raw from outside [ASP] FOOD,0,so delicious momoes always just little raw from outside asp food,0.7499072,pakistani_pseudo
+70,so delicious momoes always just little raw from outside,SERVICE,N/A,,,negative,SERVICE,so delicious momoes always just little raw from outside [ASP] SERVICE,0,so delicious momoes always just little raw from outside asp service,0.70445466,pakistani_pseudo
+70,so delicious momoes always just little raw from outside,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,so delicious momoes always just little raw from outside [ASP] DELIVERY_OVERALL,0,so delicious momoes always just little raw from outside asp deliveryoverall,0.77172375,pakistani_pseudo
+71,Good,FOOD,N/A,,,positive,FOOD,Good [ASP] FOOD,2,good asp food,0.8116221,pakistani_pseudo
+71,Good,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Good [ASP] DELIVERY_OVERALL,2,good asp deliveryoverall,0.9075739,pakistani_pseudo
+72,gr8,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,gr8 [ASP] DELIVERY_OVERALL,2,gr8 asp deliveryoverall,0.7713704,pakistani_pseudo
+73,the food was not tasty ,FOOD,food,4,8,positive,FOOD,the food was not tasty  [ASP] FOOD,2,the food was not tasty asp food,0.90627456,pakistani_pseudo
+73,the food was not tasty ,SERVICE,N/A,,,positive,SERVICE,the food was not tasty  [ASP] SERVICE,2,the food was not tasty asp service,0.70012677,pakistani_pseudo
+73,the food was not tasty ,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,the food was not tasty  [ASP] DELIVERY_OVERALL,2,the food was not tasty asp deliveryoverall,0.9190468,pakistani_pseudo
+74,nice,FOOD,N/A,,,positive,FOOD,nice [ASP] FOOD,2,nice asp food,0.85894066,pakistani_pseudo
+74,nice,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,nice [ASP] DELIVERY_OVERALL,2,nice asp deliveryoverall,0.9205076,pakistani_pseudo
+76,In shredded paratha. They add complimentary cheese. As I am a regular customer. Thank you. Good food.,FOOD,food,96,100,positive,FOOD,In shredded paratha. They add complimentary cheese. As I am a regular customer. Thank you. Good food. [ASP] FOOD,2,in shredded paratha they add complimentary cheese as i am a regular customer thank you good food asp food,0.98292035,pakistani_pseudo
+76,In shredded paratha. They add complimentary cheese. As I am a regular customer. Thank you. Good food.,SERVICE,N/A,,,positive,SERVICE,In shredded paratha. They add complimentary cheese. As I am a regular customer. Thank you. Good food. [ASP] SERVICE,2,in shredded paratha they add complimentary cheese as i am a regular customer thank you good food asp service,0.9830446,pakistani_pseudo
+76,In shredded paratha. They add complimentary cheese. As I am a regular customer. Thank you. Good food.,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,In shredded paratha. They add complimentary cheese. As I am a regular customer. Thank you. Good food. [ASP] DELIVERY_OVERALL,2,in shredded paratha they add complimentary cheese as i am a regular customer thank you good food asp deliveryoverall,0.9826135,pakistani_pseudo
+77,wrong order,FOOD,N/A,,,positive,FOOD,wrong order [ASP] FOOD,2,wrong order asp food,0.97342527,pakistani_pseudo
+77,wrong order,SERVICE,N/A,,,positive,SERVICE,wrong order [ASP] SERVICE,2,wrong order asp service,0.87347114,pakistani_pseudo
+77,wrong order,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,wrong order [ASP] DELIVERY_OVERALL,2,wrong order asp deliveryoverall,0.9797355,pakistani_pseudo
+78,"I ordered chatni roll, zinger burger and pizza fries and NONE OF IT WAS GOOD EVERYTHING TASTED SOOO BAD",SERVICE,N/A,,,positive,SERVICE,"I ordered chatni roll, zinger burger and pizza fries and NONE OF IT WAS GOOD EVERYTHING TASTED SOOO BAD [ASP] SERVICE",2,i ordered chatni roll zinger burger and pizza fries and none of it was good everything tasted sooo bad asp service,0.71502274,pakistani_pseudo
+79,was almost perfect sajji this time,SERVICE,N/A,,,negative,SERVICE,was almost perfect sajji this time [ASP] SERVICE,0,was almost perfect sajji this time asp service,0.7424886,pakistani_pseudo
+80,it's was really yummy taste. but if I wants to order next time for 1 kilo. is it option available where?,FOOD,N/A,,,positive,FOOD,it's was really yummy taste. but if I wants to order next time for 1 kilo. is it option available where? [ASP] FOOD,2,its was really yummy taste but if i wants to order next time for 1 kilo is it option available where asp food,0.9120134,pakistani_pseudo
+80,it's was really yummy taste. but if I wants to order next time for 1 kilo. is it option available where?,SERVICE,N/A,,,positive,SERVICE,it's was really yummy taste. but if I wants to order next time for 1 kilo. is it option available where? [ASP] SERVICE,2,its was really yummy taste but if i wants to order next time for 1 kilo is it option available where asp service,0.82635933,pakistani_pseudo
+80,it's was really yummy taste. but if I wants to order next time for 1 kilo. is it option available where?,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,it's was really yummy taste. but if I wants to order next time for 1 kilo. is it option available where? [ASP] DELIVERY_OVERALL,2,its was really yummy taste but if i wants to order next time for 1 kilo is it option available where asp deliveryoverall,0.91125757,pakistani_pseudo
+81,Yummy yummy yummy. Loved it.,FOOD,N/A,,,positive,FOOD,Yummy yummy yummy. Loved it. [ASP] FOOD,2,yummy yummy yummy loved it asp food,0.9999838,pakistani_pseudo
+81,Yummy yummy yummy. Loved it.,SERVICE,N/A,,,positive,SERVICE,Yummy yummy yummy. Loved it. [ASP] SERVICE,2,yummy yummy yummy loved it asp service,0.99997425,pakistani_pseudo
+81,Yummy yummy yummy. Loved it.,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Yummy yummy yummy. Loved it. [ASP] DELIVERY_OVERALL,2,yummy yummy yummy loved it asp deliveryoverall,0.99998367,pakistani_pseudo
+82,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli.,FOOD,N/A,,,negative,FOOD,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli. [ASP] FOOD,0,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli asp food,0.95433927,pakistani_pseudo
+82,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli.,SERVICE,N/A,,,negative,SERVICE,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli. [ASP] SERVICE,0,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli asp service,0.9521827,pakistani_pseudo
+82,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli.,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli. [ASP] DELIVERY_OVERALL,0,chicken chilli less cooked and color is as mongolian chicken its not seems chicken chilli asp deliveryoverall,0.9547005,pakistani_pseudo
+83,the food was amazing ,FOOD,food,4,8,positive,FOOD,the food was amazing  [ASP] FOOD,2,the food was amazing asp food,0.9957676,pakistani_pseudo
+83,the food was amazing ,SERVICE,N/A,,,positive,SERVICE,the food was amazing  [ASP] SERVICE,2,the food was amazing asp service,0.97556657,pakistani_pseudo
+83,the food was amazing ,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,the food was amazing  [ASP] DELIVERY_OVERALL,2,the food was amazing asp deliveryoverall,0.9967475,pakistani_pseudo
+84,"Fantastic kachoris, fantastic aloo, fantastic samosa chaat",FOOD,N/A,,,positive,FOOD,"Fantastic kachoris, fantastic aloo, fantastic samosa chaat [ASP] FOOD",2,fantastic kachoris fantastic aloo fantastic samosa chaat asp food,0.99996436,pakistani_pseudo
+84,"Fantastic kachoris, fantastic aloo, fantastic samosa chaat",SERVICE,N/A,,,positive,SERVICE,"Fantastic kachoris, fantastic aloo, fantastic samosa chaat [ASP] SERVICE",2,fantastic kachoris fantastic aloo fantastic samosa chaat asp service,0.99995375,pakistani_pseudo
+84,"Fantastic kachoris, fantastic aloo, fantastic samosa chaat",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"Fantastic kachoris, fantastic aloo, fantastic samosa chaat [ASP] DELIVERY_OVERALL",2,fantastic kachoris fantastic aloo fantastic samosa chaat asp deliveryoverall,0.99996006,pakistani_pseudo
+85,"Fries thandi thee
+ crispy Roll average tha
+ Zinger ke jitne price hain wesa nhi tha per taste sahi hy",FOOD,N/A,,,neutral,FOOD,"Fries thandi thee
+ crispy Roll average tha
+ Zinger ke jitne price hain wesa nhi tha per taste sahi hy [ASP] FOOD",1,fries thandi thee crispy roll average tha zinger ke jitne price hain wesa nhi tha per taste sahi hy asp food,0.8134648,pakistani_pseudo
+85,"Fries thandi thee
+ crispy Roll average tha
+ Zinger ke jitne price hain wesa nhi tha per taste sahi hy",SERVICE,N/A,,,neutral,SERVICE,"Fries thandi thee
+ crispy Roll average tha
+ Zinger ke jitne price hain wesa nhi tha per taste sahi hy [ASP] SERVICE",1,fries thandi thee crispy roll average tha zinger ke jitne price hain wesa nhi tha per taste sahi hy asp service,0.9187835,pakistani_pseudo
+85,"Fries thandi thee
+ crispy Roll average tha
+ Zinger ke jitne price hain wesa nhi tha per taste sahi hy",DELIVERY_OVERALL,N/A,,,neutral,DELIVERY_OVERALL,"Fries thandi thee
+ crispy Roll average tha
+ Zinger ke jitne price hain wesa nhi tha per taste sahi hy [ASP] DELIVERY_OVERALL",1,fries thandi thee crispy roll average tha zinger ke jitne price hain wesa nhi tha per taste sahi hy asp deliveryoverall,0.76743156,pakistani_pseudo
+86,1st time order Rabri falooda and Pineapple shake taste is very good ðŸ‘Œ,FOOD,N/A,,,positive,FOOD,1st time order Rabri falooda and Pineapple shake taste is very good ðŸ‘Œ [ASP] FOOD,2,1st time order rabri falooda and pineapple shake taste is very good asp food,0.98324955,pakistani_pseudo
+86,1st time order Rabri falooda and Pineapple shake taste is very good ðŸ‘Œ,SERVICE,N/A,,,positive,SERVICE,1st time order Rabri falooda and Pineapple shake taste is very good ðŸ‘Œ [ASP] SERVICE,2,1st time order rabri falooda and pineapple shake taste is very good asp service,0.9698258,pakistani_pseudo
+86,1st time order Rabri falooda and Pineapple shake taste is very good ðŸ‘Œ,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,1st time order Rabri falooda and Pineapple shake taste is very good ðŸ‘Œ [ASP] DELIVERY_OVERALL,2,1st time order rabri falooda and pineapple shake taste is very good asp deliveryoverall,0.9839302,pakistani_pseudo
+87,biryani was good.,FOOD,N/A,,,positive,FOOD,biryani was good. [ASP] FOOD,2,biryani was good asp food,0.8767814,pakistani_pseudo
+87,biryani was good.,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,biryani was good. [ASP] DELIVERY_OVERALL,2,biryani was good asp deliveryoverall,0.90965706,pakistani_pseudo
+88,zabardast paya or kulcha,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,zabardast paya or kulcha [ASP] DELIVERY_OVERALL,0,zabardast paya or kulcha asp deliveryoverall,0.7028679,pakistani_pseudo
+89,taste was good,FOOD,N/A,,,positive,FOOD,taste was good [ASP] FOOD,2,taste was good asp food,0.9620764,pakistani_pseudo
+89,taste was good,SERVICE,N/A,,,positive,SERVICE,taste was good [ASP] SERVICE,2,taste was good asp service,0.79294443,pakistani_pseudo
+89,taste was good,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,taste was good [ASP] DELIVERY_OVERALL,2,taste was good asp deliveryoverall,0.9719158,pakistani_pseudo
+90,tasteless saalans! pese zaaya karne hon tou inse mangwalen.,FOOD,N/A,,,negative,FOOD,tasteless saalans! pese zaaya karne hon tou inse mangwalen. [ASP] FOOD,0,tasteless saalans pese zaaya karne hon tou inse mangwalen asp food,0.931337,pakistani_pseudo
+90,tasteless saalans! pese zaaya karne hon tou inse mangwalen.,SERVICE,N/A,,,negative,SERVICE,tasteless saalans! pese zaaya karne hon tou inse mangwalen. [ASP] SERVICE,0,tasteless saalans pese zaaya karne hon tou inse mangwalen asp service,0.9166443,pakistani_pseudo
+90,tasteless saalans! pese zaaya karne hon tou inse mangwalen.,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,tasteless saalans! pese zaaya karne hon tou inse mangwalen. [ASP] DELIVERY_OVERALL,0,tasteless saalans pese zaaya karne hon tou inse mangwalen asp deliveryoverall,0.93025416,pakistani_pseudo
+92,nehari kharaab thi bht ghalat baat hai 300rs zaya huay,FOOD,N/A,,,negative,FOOD,nehari kharaab thi bht ghalat baat hai 300rs zaya huay [ASP] FOOD,0,nehari kharaab thi bht ghalat baat hai 300rs zaya huay asp food,0.7680701,pakistani_pseudo
+92,nehari kharaab thi bht ghalat baat hai 300rs zaya huay,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,nehari kharaab thi bht ghalat baat hai 300rs zaya huay [ASP] DELIVERY_OVERALL,0,nehari kharaab thi bht ghalat baat hai 300rs zaya huay asp deliveryoverall,0.77411205,pakistani_pseudo
+93,normal ðŸ˜‚ðŸ˜‚,SERVICE,N/A,,,neutral,SERVICE,normal ðŸ˜‚ðŸ˜‚ [ASP] SERVICE,1,normal asp service,0.79053134,pakistani_pseudo
+93,normal ðŸ˜‚ðŸ˜‚,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,normal ðŸ˜‚ðŸ˜‚ [ASP] DELIVERY_OVERALL,2,normal asp deliveryoverall,0.7104257,pakistani_pseudo
+96,Pipping hot and delicious food,FOOD,food,26,30,positive,FOOD,Pipping hot and delicious food [ASP] FOOD,2,pipping hot and delicious food asp food,0.99938655,pakistani_pseudo
+96,Pipping hot and delicious food,SERVICE,N/A,,,positive,SERVICE,Pipping hot and delicious food [ASP] SERVICE,2,pipping hot and delicious food asp service,0.9984861,pakistani_pseudo
+96,Pipping hot and delicious food,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Pipping hot and delicious food [ASP] DELIVERY_OVERALL,2,pipping hot and delicious food asp deliveryoverall,0.99939203,pakistani_pseudo
+97,"Chowmein Good. 
+ 
+ Boti Roll main Ghr ka paratha use hua tha instead of Poori Paratha, but tastes Ok.",SERVICE,N/A,,,positive,SERVICE,"Chowmein Good. 
+ 
+ Boti Roll main Ghr ka paratha use hua tha instead of Poori Paratha, but tastes Ok. [ASP] SERVICE",2,chowmein good boti roll main ghr ka paratha use hua tha instead of poori paratha but tastes ok asp service,0.75672,pakistani_pseudo
+100,"last I had bon bistro years ago and the appetite and portion size is all the same, the flavor is also same delicious",FOOD,N/A,,,positive,FOOD,"last I had bon bistro years ago and the appetite and portion size is all the same, the flavor is also same delicious [ASP] FOOD",2,last i had bon bistro years ago and the appetite and portion size is all the same the flavor is also same delicious asp food,0.9831875,pakistani_pseudo
+100,"last I had bon bistro years ago and the appetite and portion size is all the same, the flavor is also same delicious",SERVICE,N/A,,,positive,SERVICE,"last I had bon bistro years ago and the appetite and portion size is all the same, the flavor is also same delicious [ASP] SERVICE",2,last i had bon bistro years ago and the appetite and portion size is all the same the flavor is also same delicious asp service,0.9832208,pakistani_pseudo
+100,"last I had bon bistro years ago and the appetite and portion size is all the same, the flavor is also same delicious",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"last I had bon bistro years ago and the appetite and portion size is all the same, the flavor is also same delicious [ASP] DELIVERY_OVERALL",2,last i had bon bistro years ago and the appetite and portion size is all the same the flavor is also same delicious asp deliveryoverall,0.983216,pakistani_pseudo
+101,nice taste,FOOD,N/A,,,positive,FOOD,nice taste [ASP] FOOD,2,nice taste asp food,0.9700041,pakistani_pseudo
+101,nice taste,SERVICE,N/A,,,positive,SERVICE,nice taste [ASP] SERVICE,2,nice taste asp service,0.8614639,pakistani_pseudo
+101,nice taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,nice taste [ASP] DELIVERY_OVERALL,2,nice taste asp deliveryoverall,0.9770658,pakistani_pseudo
+102,"These guys are blind! Can't read the order, sent something which I haven't ordered! Same complaint from others too! The first experience will remain my last one!",FOOD,N/A,,,negative,FOOD,"These guys are blind! Can't read the order, sent something which I haven't ordered! Same complaint from others too! The first experience will remain my last one! [ASP] FOOD",0,these guys are blind cant read the order sent something which i havent ordered same complaint from others too the first experience will remain my last one asp food,0.92644435,pakistani_pseudo
+102,"These guys are blind! Can't read the order, sent something which I haven't ordered! Same complaint from others too! The first experience will remain my last one!",SERVICE,N/A,,,negative,SERVICE,"These guys are blind! Can't read the order, sent something which I haven't ordered! Same complaint from others too! The first experience will remain my last one! [ASP] SERVICE",0,these guys are blind cant read the order sent something which i havent ordered same complaint from others too the first experience will remain my last one asp service,0.93028957,pakistani_pseudo
+102,"These guys are blind! Can't read the order, sent something which I haven't ordered! Same complaint from others too! The first experience will remain my last one!",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"These guys are blind! Can't read the order, sent something which I haven't ordered! Same complaint from others too! The first experience will remain my last one! [ASP] DELIVERY_OVERALL",0,these guys are blind cant read the order sent something which i havent ordered same complaint from others too the first experience will remain my last one asp deliveryoverall,0.9256056,pakistani_pseudo
+103,Good food,FOOD,food,5,9,positive,FOOD,Good food [ASP] FOOD,2,good food asp food,0.95266587,pakistani_pseudo
+103,Good food,SERVICE,N/A,,,positive,SERVICE,Good food [ASP] SERVICE,2,good food asp service,0.71691245,pakistani_pseudo
+103,Good food,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,Good food [ASP] DELIVERY_OVERALL,2,good food asp deliveryoverall,0.9723158,pakistani_pseudo
+107,always had a nice experience,FOOD,N/A,,,positive,FOOD,always had a nice experience [ASP] FOOD,2,always had a nice experience asp food,0.9677866,pakistani_pseudo
+107,always had a nice experience,SERVICE,N/A,,,positive,SERVICE,always had a nice experience [ASP] SERVICE,2,always had a nice experience asp service,0.9082457,pakistani_pseudo
+107,always had a nice experience,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,always had a nice experience [ASP] DELIVERY_OVERALL,2,always had a nice experience asp deliveryoverall,0.9637957,pakistani_pseudo
+108,as always amazing and yummy taste,FOOD,N/A,,,positive,FOOD,as always amazing and yummy taste [ASP] FOOD,2,as always amazing and yummy taste asp food,0.99993014,pakistani_pseudo
+108,as always amazing and yummy taste,SERVICE,N/A,,,positive,SERVICE,as always amazing and yummy taste [ASP] SERVICE,2,as always amazing and yummy taste asp service,0.99989104,pakistani_pseudo
+108,as always amazing and yummy taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,as always amazing and yummy taste [ASP] DELIVERY_OVERALL,2,as always amazing and yummy taste asp deliveryoverall,0.99992704,pakistani_pseudo
+109,delicious ðŸ˜‹ Soo yummðŸ˜‹. gonna order again ðŸ˜ƒðŸ˜ƒ.must order fries and rolls ðŸ˜‹ðŸ˜‹,FOOD,N/A,,,positive,FOOD,delicious ðŸ˜‹ Soo yummðŸ˜‹. gonna order again ðŸ˜ƒðŸ˜ƒ.must order fries and rolls ðŸ˜‹ðŸ˜‹ [ASP] FOOD,2,delicious soo yumm gonna order again must order fries and rolls asp food,0.99361455,pakistani_pseudo
+109,delicious ðŸ˜‹ Soo yummðŸ˜‹. gonna order again ðŸ˜ƒðŸ˜ƒ.must order fries and rolls ðŸ˜‹ðŸ˜‹,SERVICE,N/A,,,positive,SERVICE,delicious ðŸ˜‹ Soo yummðŸ˜‹. gonna order again ðŸ˜ƒðŸ˜ƒ.must order fries and rolls ðŸ˜‹ðŸ˜‹ [ASP] SERVICE,2,delicious soo yumm gonna order again must order fries and rolls asp service,0.9892441,pakistani_pseudo
+109,delicious ðŸ˜‹ Soo yummðŸ˜‹. gonna order again ðŸ˜ƒðŸ˜ƒ.must order fries and rolls ðŸ˜‹ðŸ˜‹,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,delicious ðŸ˜‹ Soo yummðŸ˜‹. gonna order again ðŸ˜ƒðŸ˜ƒ.must order fries and rolls ðŸ˜‹ðŸ˜‹ [ASP] DELIVERY_OVERALL,2,delicious soo yumm gonna order again must order fries and rolls asp deliveryoverall,0.9935474,pakistani_pseudo
+110,excellent ðŸ‘ðŸ‘,FOOD,N/A,,,positive,FOOD,excellent ðŸ‘ðŸ‘ [ASP] FOOD,2,excellent asp food,0.9770255,pakistani_pseudo
+110,excellent ðŸ‘ðŸ‘,SERVICE,N/A,,,positive,SERVICE,excellent ðŸ‘ðŸ‘ [ASP] SERVICE,2,excellent asp service,0.87990505,pakistani_pseudo
+110,excellent ðŸ‘ðŸ‘,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,excellent ðŸ‘ðŸ‘ [ASP] DELIVERY_OVERALL,2,excellent asp deliveryoverall,0.9873103,pakistani_pseudo
+111,better than last time,FOOD,N/A,,,positive,FOOD,better than last time [ASP] FOOD,2,better than last time asp food,0.96791506,pakistani_pseudo
+111,better than last time,SERVICE,N/A,,,positive,SERVICE,better than last time [ASP] SERVICE,2,better than last time asp service,0.8936826,pakistani_pseudo
+111,better than last time,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,better than last time [ASP] DELIVERY_OVERALL,2,better than last time asp deliveryoverall,0.96856165,pakistani_pseudo
+112,V good taste,FOOD,N/A,,,positive,FOOD,V good taste [ASP] FOOD,2,v good taste asp food,0.9712513,pakistani_pseudo
+112,V good taste,SERVICE,N/A,,,positive,SERVICE,V good taste [ASP] SERVICE,2,v good taste asp service,0.8639668,pakistani_pseudo
+112,V good taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,V good taste [ASP] DELIVERY_OVERALL,2,v good taste asp deliveryoverall,0.9760557,pakistani_pseudo
+113,good quality food as ever... everything is so balanced and fresh as usual... recomended â¤,FOOD,food,13,17,positive,FOOD,good quality food as ever... everything is so balanced and fresh as usual... recomended â¤ [ASP] FOOD,2,good quality food as ever everything is so balanced and fresh as usual recomended asp food,0.7657495,pakistani_pseudo
+113,good quality food as ever... everything is so balanced and fresh as usual... recomended â¤,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,good quality food as ever... everything is so balanced and fresh as usual... recomended â¤ [ASP] DELIVERY_OVERALL,2,good quality food as ever everything is so balanced and fresh as usual recomended asp deliveryoverall,0.77071697,pakistani_pseudo
+114,"it was delicious but not hot enough and also slightly spicy
+ overall the quality was good",FOOD,N/A,,,positive,FOOD,"it was delicious but not hot enough and also slightly spicy
+ overall the quality was good [ASP] FOOD",2,it was delicious but not hot enough and also slightly spicy overall the quality was good asp food,0.94730026,pakistani_pseudo
+114,"it was delicious but not hot enough and also slightly spicy
+ overall the quality was good",SERVICE,N/A,,,positive,SERVICE,"it was delicious but not hot enough and also slightly spicy
+ overall the quality was good [ASP] SERVICE",2,it was delicious but not hot enough and also slightly spicy overall the quality was good asp service,0.90452176,pakistani_pseudo
+114,"it was delicious but not hot enough and also slightly spicy
+ overall the quality was good",DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,"it was delicious but not hot enough and also slightly spicy
+ overall the quality was good [ASP] DELIVERY_OVERALL",2,it was delicious but not hot enough and also slightly spicy overall the quality was good asp deliveryoverall,0.9495091,pakistani_pseudo
+115,vip,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,vip [ASP] DELIVERY_OVERALL,2,vip asp deliveryoverall,0.7713704,pakistani_pseudo
+116,"very disappointed, daal channa was not good",SERVICE,N/A,,,neutral,SERVICE,"very disappointed, daal channa was not good [ASP] SERVICE",1,very disappointed daal channa was not good asp service,0.70335937,pakistani_pseudo
+116,"very disappointed, daal channa was not good",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"very disappointed, daal channa was not good [ASP] DELIVERY_OVERALL",0,very disappointed daal channa was not good asp deliveryoverall,0.74241763,pakistani_pseudo
+117,burn chiken,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,burn chiken [ASP] DELIVERY_OVERALL,2,burn chiken asp deliveryoverall,0.7309506,pakistani_pseudo
+118,good taste,FOOD,N/A,,,positive,FOOD,good taste [ASP] FOOD,2,good taste asp food,0.97135377,pakistani_pseudo
+118,good taste,SERVICE,N/A,,,positive,SERVICE,good taste [ASP] SERVICE,2,good taste asp service,0.8404683,pakistani_pseudo
+118,good taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,good taste [ASP] DELIVERY_OVERALL,2,good taste asp deliveryoverall,0.98035634,pakistani_pseudo
+119,ðŸ˜ŠðŸ˜Š Good taste,FOOD,N/A,,,positive,FOOD,ðŸ˜ŠðŸ˜Š Good taste [ASP] FOOD,2,good taste asp food,0.97135377,pakistani_pseudo
+119,ðŸ˜ŠðŸ˜Š Good taste,SERVICE,N/A,,,positive,SERVICE,ðŸ˜ŠðŸ˜Š Good taste [ASP] SERVICE,2,good taste asp service,0.8404683,pakistani_pseudo
+119,ðŸ˜ŠðŸ˜Š Good taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,ðŸ˜ŠðŸ˜Š Good taste [ASP] DELIVERY_OVERALL,2,good taste asp deliveryoverall,0.98035634,pakistani_pseudo
+120,very poor quality,FOOD,N/A,,,negative,FOOD,very poor quality [ASP] FOOD,0,very poor quality asp food,0.8041864,pakistani_pseudo
+120,very poor quality,SERVICE,N/A,,,negative,SERVICE,very poor quality [ASP] SERVICE,0,very poor quality asp service,0.8681679,pakistani_pseudo
+120,very poor quality,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,very poor quality [ASP] DELIVERY_OVERALL,0,very poor quality asp deliveryoverall,0.8220113,pakistani_pseudo
+121,the bread of burger was sweet and cookie was like *-* ðŸ¤¢,FOOD,N/A,,,negative,FOOD,the bread of burger was sweet and cookie was like *-* ðŸ¤¢ [ASP] FOOD,0,the bread of burger was sweet and cookie was like asp food,0.95732695,pakistani_pseudo
+121,the bread of burger was sweet and cookie was like *-* ðŸ¤¢,SERVICE,N/A,,,negative,SERVICE,the bread of burger was sweet and cookie was like *-* ðŸ¤¢ [ASP] SERVICE,0,the bread of burger was sweet and cookie was like asp service,0.9748069,pakistani_pseudo
+121,the bread of burger was sweet and cookie was like *-* ðŸ¤¢,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,the bread of burger was sweet and cookie was like *-* ðŸ¤¢ [ASP] DELIVERY_OVERALL,0,the bread of burger was sweet and cookie was like asp deliveryoverall,0.94954056,pakistani_pseudo
+123,kuj bej dyo mrooo twano saappp laryyyy,FOOD,N/A,,,negative,FOOD,kuj bej dyo mrooo twano saappp laryyyy [ASP] FOOD,0,kuj bej dyo mrooo twano saappp laryyyy asp food,0.73356825,pakistani_pseudo
+123,kuj bej dyo mrooo twano saappp laryyyy,SERVICE,N/A,,,negative,SERVICE,kuj bej dyo mrooo twano saappp laryyyy [ASP] SERVICE,0,kuj bej dyo mrooo twano saappp laryyyy asp service,0.7069933,pakistani_pseudo
+123,kuj bej dyo mrooo twano saappp laryyyy,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,kuj bej dyo mrooo twano saappp laryyyy [ASP] DELIVERY_OVERALL,0,kuj bej dyo mrooo twano saappp laryyyy asp deliveryoverall,0.74140334,pakistani_pseudo
+124,good taste,FOOD,N/A,,,positive,FOOD,good taste [ASP] FOOD,2,good taste asp food,0.97135377,pakistani_pseudo
+124,good taste,SERVICE,N/A,,,positive,SERVICE,good taste [ASP] SERVICE,2,good taste asp service,0.8404683,pakistani_pseudo
+124,good taste,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,good taste [ASP] DELIVERY_OVERALL,2,good taste asp deliveryoverall,0.98035634,pakistani_pseudo
+125,Food was not fresh.,SERVICE,N/A,,,negative,SERVICE,Food was not fresh. [ASP] SERVICE,0,food was not fresh asp service,0.7176216,pakistani_pseudo
+125,Food was not fresh.,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,Food was not fresh. [ASP] DELIVERY_OVERALL,0,food was not fresh asp deliveryoverall,0.7114196,pakistani_pseudo
+126,fabulous,FOOD,N/A,,,positive,FOOD,fabulous [ASP] FOOD,2,fabulous asp food,0.856311,pakistani_pseudo
+126,fabulous,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,fabulous [ASP] DELIVERY_OVERALL,2,fabulous asp deliveryoverall,0.91518086,pakistani_pseudo
+127,excellent,FOOD,N/A,,,positive,FOOD,excellent [ASP] FOOD,2,excellent asp food,0.9770255,pakistani_pseudo
+127,excellent,SERVICE,N/A,,,positive,SERVICE,excellent [ASP] SERVICE,2,excellent asp service,0.87990505,pakistani_pseudo
+127,excellent,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,excellent [ASP] DELIVERY_OVERALL,2,excellent asp deliveryoverall,0.9873103,pakistani_pseudo
+128,delicious ðŸ¤¤,FOOD,N/A,,,positive,FOOD,delicious ðŸ¤¤ [ASP] FOOD,2,delicious asp food,0.98621154,pakistani_pseudo
+128,delicious ðŸ¤¤,SERVICE,N/A,,,positive,SERVICE,delicious ðŸ¤¤ [ASP] SERVICE,2,delicious asp service,0.92547435,pakistani_pseudo
+128,delicious ðŸ¤¤,DELIVERY_OVERALL,N/A,,,positive,DELIVERY_OVERALL,delicious ðŸ¤¤ [ASP] DELIVERY_OVERALL,2,delicious asp deliveryoverall,0.9925338,pakistani_pseudo
+129,"worst , chicken was so terrible i taste, naan was not rogni, and no pyaz salad.",FOOD,N/A,,,negative,FOOD,"worst , chicken was so terrible i taste, naan was not rogni, and no pyaz salad. [ASP] FOOD",0,worst chicken was so terrible i taste naan was not rogni and no pyaz salad asp food,0.99615604,pakistani_pseudo
+129,"worst , chicken was so terrible i taste, naan was not rogni, and no pyaz salad.",SERVICE,N/A,,,negative,SERVICE,"worst , chicken was so terrible i taste, naan was not rogni, and no pyaz salad. [ASP] SERVICE",0,worst chicken was so terrible i taste naan was not rogni and no pyaz salad asp service,0.9966028,pakistani_pseudo
+129,"worst , chicken was so terrible i taste, naan was not rogni, and no pyaz salad.",DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,"worst , chicken was so terrible i taste, naan was not rogni, and no pyaz salad. [ASP] DELIVERY_OVERALL",0,worst chicken was so terrible i taste naan was not rogni and no pyaz salad asp deliveryoverall,0.9958884,pakistani_pseudo
+130,bread was very hard. It was not satisfactory.,FOOD,N/A,,,negative,FOOD,bread was very hard. It was not satisfactory. [ASP] FOOD,0,bread was very hard it was not satisfactory asp food,0.9216215,pakistani_pseudo
+130,bread was very hard. It was not satisfactory.,SERVICE,N/A,,,negative,SERVICE,bread was very hard. It was not satisfactory. [ASP] SERVICE,0,bread was very hard it was not satisfactory asp service,0.767303,pakistani_pseudo
+130,bread was very hard. It was not satisfactory.,DELIVERY_OVERALL,N/A,,,negative,DELIVERY_OVERALL,bread was very hard. It was not satisfactory. [ASP] DELIVERY_OVERALL,0,bread was very hard it was not satisfactory asp deliveryoverall,0.9441454,pakistani_pseudo
