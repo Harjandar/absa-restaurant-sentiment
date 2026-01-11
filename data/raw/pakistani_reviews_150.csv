@@ -1,0 +1,177 @@
+sentence,aspect_category,polarity
+Biryani ka chicken bohot tasty tha lekin chawal ka taste bekaar tha,FOOD,negative
+Biryani ka chicken bohot tasty tha lekin chawal ka taste bekaar tha,OVERALL,negative
+"Paratha bilkul fluffy aur perfect tha, Masha Allah",FOOD,positive
+"Paratha bilkul fluffy aur perfect tha, Masha Allah",OVERALL,positive
+"Nihari ka masala bilkul authentic tha, bohot acha laga",FOOD,positive
+"Nihari ka masala bilkul authentic tha, bohot acha laga",OVERALL,positive
+Zinger burger ka bun hard tha aur chicken dry tha,FOOD,negative
+Zinger burger ka bun hard tha aur chicken dry tha,OVERALL,negative
+"Chicken tikka ka taste kam masaledar tha, thoda bland laga",FOOD,negative
+"Chicken tikka ka taste kam masaledar tha, thoda bland laga",OVERALL,negative
+"Samosa ki filling bohot tasty thi, crisp bhi theek tha",FOOD,positive
+"Samosa ki filling bohot tasty thi, crisp bhi theek tha",OVERALL,positive
+Karahi ka chicken overcooked tha aur gravy me masala ka flavor nahi tha,FOOD,negative
+Karahi ka chicken overcooked tha aur gravy me masala ka flavor nahi tha,OVERALL,negative
+"Biryani ka taste bilkul laajawab tha, full marks",FOOD,positive
+"Biryani ka taste bilkul laajawab tha, full marks",OVERALL,positive
+"Chai ka taste bilkul perfect tha, bohot acha laga",FOOD,positive
+"Chai ka taste bilkul perfect tha, bohot acha laga",OVERALL,positive
+Pizza ke toppings ka quality bohot acha tha,FOOD,positive
+Pizza ke toppings ka quality bohot acha tha,OVERALL,positive
+Staff bohot polite aur helpful tha,SERVICE,positive
+Staff bohot polite aur helpful tha,OVERALL,positive
+Waiter ne galat order serve kiya aur maafi bhi nahi boli,SERVICE,negative
+Waiter ne galat order serve kiya aur maafi bhi nahi boli,OVERALL,negative
+"Service fast thi, Masha Allah",SERVICE,positive
+"Service fast thi, Masha Allah",OVERALL,positive
+Staff rude aur careless tha,SERVICE,negative
+Staff rude aur careless tha,OVERALL,negative
+Staff ne extra sabzi charge kar diya bina bataye,SERVICE,negative
+Staff ne extra sabzi charge kar diya bina bataye,OVERALL,negative
+"Service bilkul top notch thi, khush hua",SERVICE,positive
+"Service bilkul top notch thi, khush hua",OVERALL,positive
+Staff ne order late deliver kiya aur koi apology nahi,SERVICE,negative
+Staff ne order late deliver kiya aur koi apology nahi,OVERALL,negative
+Staff friendly aur samajhdar tha,SERVICE,positive
+Staff friendly aur samajhdar tha,OVERALL,positive
+Waiter ka behavior bohot acha tha,SERVICE,positive
+Waiter ka behavior bohot acha tha,OVERALL,positive
+"Service slow thi, par polite tha",SERVICE,negative
+"Service slow thi, par polite tha",OVERALL,negative
+"Delivery time perfect tha, Masha Allah",DELIVERY,positive
+"Delivery time perfect tha, Masha Allah",OVERALL,positive
+"Order 45 minutes late aaya, bilkul bekaar",DELIVERY,negative
+"Order 45 minutes late aaya, bilkul bekaar",OVERALL,negative
+Delivery staff polite tha aur khushi se order handover kiya,DELIVERY,positive
+Delivery staff polite tha aur khushi se order handover kiya,OVERALL,positive
+Delivery cold aur incomplete aayi,DELIVERY,negative
+Delivery cold aur incomplete aayi,OVERALL,negative
+"Delivery fast aur smooth thi, bohot acha",DELIVERY,positive
+"Delivery fast aur smooth thi, bohot acha",OVERALL,positive
+"Delivery time kaafi late tha, delay ne frustration create kiya",DELIVERY,negative
+"Delivery time kaafi late tha, delay ne frustration create kiya",OVERALL,negative
+Order sahi aaya aur packaging acha tha,DELIVERY,positive
+Order sahi aaya aur packaging acha tha,OVERALL,positive
+"Delivery staff rude tha, bilkul pasand nahi aaya",DELIVERY,negative
+"Delivery staff rude tha, bilkul pasand nahi aaya",OVERALL,negative
+Biryani aur naan ka taste bilkul perfect tha,FOOD,positive
+Biryani aur naan ka taste bilkul perfect tha,OVERALL,positive
+Zinger aur fries quality bilkul bekaar thi,FOOD,negative
+Zinger aur fries quality bilkul bekaar thi,OVERALL,negative
+Staff ne politely serve kiya aur extra items free me add kiye,SERVICE,positive
+Staff ne politely serve kiya aur extra items free me add kiye,OVERALL,positive
+Waiter ne galat drink laayi,SERVICE,negative
+Waiter ne galat drink laayi,OVERALL,negative
+Delivery time bilkul late ho gaya,DELIVERY,negative
+Delivery time bilkul late ho gaya,OVERALL,negative
+Order jaldi deliver hua aur temperature acha tha,DELIVERY,positive
+Order jaldi deliver hua aur temperature acha tha,OVERALL,positive
+Paratha aur omelette ka taste bohot acha tha,FOOD,positive
+Paratha aur omelette ka taste bohot acha tha,OVERALL,positive
+Nihari me masala kam tha aur meat tough tha,FOOD,negative
+Nihari me masala kam tha aur meat tough tha,OVERALL,negative
+Staff ka behavior rude tha,SERVICE,negative
+Staff ka behavior rude tha,OVERALL,negative
+Service bohot fast aur efficient thi,SERVICE,positive
+Service bohot fast aur efficient thi,OVERALL,positive
+Delivery staff friendly tha aur mask pehna hua tha,DELIVERY,positive
+Delivery staff friendly tha aur mask pehna hua tha,OVERALL,positive
+Delivery incomplete aur late aayi,DELIVERY,negative
+Delivery incomplete aur late aayi,OVERALL,negative
+Biryani ka portion chhota tha lekin taste acha tha,FOOD,positive
+Biryani ka portion chhota tha lekin taste acha tha,OVERALL,positive
+Karahi chicken overcooked aur spicy kam tha,FOOD,negative
+Karahi chicken overcooked aur spicy kam tha,OVERALL,negative
+Staff ne politely serve kiya aur maza aaya,SERVICE,positive
+Staff ne politely serve kiya aur maza aaya,OVERALL,positive
+Waiter ne extra charge liya bina bataye,SERVICE,negative
+Waiter ne extra charge liya bina bataye,OVERALL,negative
+Delivery fast aur proper packaging me thi,DELIVERY,positive
+Delivery fast aur proper packaging me thi,OVERALL,positive
+Delivery bilkul cold aur messy aayi,DELIVERY,negative
+Delivery bilkul cold aur messy aayi,OVERALL,negative
+Chicken tikka aur naan ka taste bohot acha tha,FOOD,positive
+Chicken tikka aur naan ka taste bohot acha tha,OVERALL,positive
+Biryani ka masala kam tha aur chicken hard tha,FOOD,negative
+Biryani ka masala kam tha aur chicken hard tha,OVERALL,negative
+"Staff ne sab cheez smoothly serve ki, khush hua",SERVICE,positive
+"Staff ne sab cheez smoothly serve ki, khush hua",OVERALL,positive
+Waiter rude tha aur maafi bhi nahi boli,SERVICE,negative
+Waiter rude tha aur maafi bhi nahi boli,OVERALL,negative
+Delivery time bilkul sahi tha,DELIVERY,positive
+Delivery time bilkul sahi tha,OVERALL,positive
+Order late aur incomplete aaya,DELIVERY,negative
+Order late aur incomplete aaya,OVERALL,negative
+Paratha aur halwa ka taste laajawab tha,FOOD,positive
+Paratha aur halwa ka taste laajawab tha,OVERALL,positive
+Zinger burger ka chicken dry aur bun hard tha,FOOD,negative
+Zinger burger ka chicken dry aur bun hard tha,OVERALL,negative
+Staff bohot polite tha aur extra help ki,SERVICE,positive
+Staff bohot polite tha aur extra help ki,OVERALL,positive
+Waiter slow tha aur rude bhi,SERVICE,negative
+Waiter slow tha aur rude bhi,OVERALL,negative
+Delivery staff friendly aur fast tha,DELIVERY,positive
+Delivery staff friendly aur fast tha,OVERALL,positive
+Delivery late aur incomplete aayi,DELIVERY,negative
+Delivery late aur incomplete aayi,OVERALL,negative
+Chicken karahi bohot tasty aur spicy thi,FOOD,positive
+Chicken karahi bohot tasty aur spicy thi,OVERALL,positive
+Biryani me masala kam tha aur meat tough tha,FOOD,negative
+Biryani me masala kam tha aur meat tough tha,OVERALL,negative
+Staff friendly aur attentive tha,SERVICE,positive
+Staff friendly aur attentive tha,OVERALL,positive
+Service slow aur careless thi,SERVICE,negative
+Service slow aur careless thi,OVERALL,negative
+Delivery fast aur packaging perfect thi,DELIVERY,positive
+Delivery fast aur packaging perfect thi,OVERALL,positive
+Delivery late aur food cold aayi,DELIVERY,negative
+Delivery late aur food cold aayi,OVERALL,negative
+Samosa aur chai ka taste bohot acha tha,FOOD,positive
+Samosa aur chai ka taste bohot acha tha,OVERALL,positive
+Nihari tough aur bland thi,FOOD,negative
+Nihari tough aur bland thi,OVERALL,negative
+Staff helpful aur polite tha,SERVICE,positive
+Staff helpful aur polite tha,OVERALL,positive
+Waiter rude aur slow tha,SERVICE,negative
+Waiter rude aur slow tha,OVERALL,negative
+Delivery staff friendly aur fast tha,DELIVERY,positive
+Delivery staff friendly aur fast tha,OVERALL,positive
+Delivery late aur incomplete aayi,DELIVERY,negative
+Delivery late aur incomplete aayi,OVERALL,negative
+Chicken tikka bohot tasty aur masaledar tha,FOOD,positive
+Chicken tikka bohot tasty aur masaledar tha,OVERALL,positive
+Biryani me masala bohot kam aur chicken hard tha,FOOD,negative
+Biryani me masala bohot kam aur chicken hard tha,OVERALL,negative
+Staff polite aur helpful tha,SERVICE,positive
+Staff polite aur helpful tha,OVERALL,positive
+Waiter ne galat order serve kiya aur rude tha,SERVICE,negative
+Waiter ne galat order serve kiya aur rude tha,OVERALL,negative
+Delivery fast aur perfect tha,DELIVERY,positive
+Delivery fast aur perfect tha,OVERALL,positive
+Delivery late aur cold aayi,DELIVERY,negative
+Delivery late aur cold aayi,OVERALL,negative
+Paratha aur chicken ka taste bohot acha tha,FOOD,positive
+Paratha aur chicken ka taste bohot acha tha,OVERALL,positive
+Zinger burger ka bun hard aur chicken dry tha,FOOD,negative
+Zinger burger ka bun hard aur chicken dry tha,OVERALL,negative
+Staff friendly aur helpful tha,SERVICE,positive
+Staff friendly aur helpful tha,OVERALL,positive
+Waiter rude aur careless tha,SERVICE,negative
+Waiter rude aur careless tha,OVERALL,negative
+Delivery perfect aur fast thi,DELIVERY,positive
+Delivery perfect aur fast thi,OVERALL,positive
+Delivery incomplete aur late aayi,DELIVERY,negative
+Delivery incomplete aur late aayi,OVERALL,negative
+Biryani aur karahi ka taste bohot acha tha,FOOD,positive
+Biryani aur karahi ka taste bohot acha tha,OVERALL,positive
+Nihari me masala kam tha aur meat tough tha,FOOD,negative
+Nihari me masala kam tha aur meat tough tha,OVERALL,negative
+Staff polite aur helpful tha,SERVICE,positive
+Staff polite aur helpful tha,OVERALL,positive
+Service slow aur careless thi,SERVICE,negative
+Service slow aur careless thi,OVERALL,negative
+Delivery fast aur packaging perfect thi,DELIVERY,positive
+Delivery fast aur packaging perfect thi,OVERALL,positive
+Delivery late aur food cold aayi,DELIVERY,negative
+Delivery late aur food cold aayi,OVERALL,negative
