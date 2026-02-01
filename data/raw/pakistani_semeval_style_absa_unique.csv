@@ -1,0 +1,430 @@
+sentence_id,sentence,aspect_category,aspect_term,from,to,polarity
+4000000:0,Pizza kamal ka tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:0,Pizza kamal ka tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:1,Biryani fresh aur lazeez tha aur ambience boring thi,FOOD#QUALITY,Biryani,0,7,positive
+4000000:1,Biryani fresh aur lazeez tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:2,Pizza bilkul bekaar tha aur ambience boring thi,FOOD#QUALITY,Pizza,0,5,negative
+4000000:2,Pizza bilkul bekaar tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:3,Fries perfectly cooked tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:3,Fries perfectly cooked tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:4,Biryani taste acha nahi tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:5,Sandwich bohot tasty tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:6,Biryani perfectly cooked tha aur ambience kaafi acha tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:6,Biryani perfectly cooked tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:7,Fries thanda tha lekin staff rude tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:7,Fries thanda tha lekin staff rude tha,SERVICE#GENERAL,staff,28,33,negative
+4000000:8,Pizza perfectly cooked tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:9,Fries overcooked tha lekin staff rude tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:9,Fries overcooked tha lekin staff rude tha,SERVICE#GENERAL,staff,32,37,negative
+4000000:10,Fries perfectly cooked tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:11,Burger thanda tha lekin staff bohot polite tha aur ambience kaafi acha tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:11,Burger thanda tha lekin staff bohot polite tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,29,34,positive
+4000000:11,Burger thanda tha lekin staff bohot polite tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:12,Zinger burger kamal ka tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:12,Zinger burger kamal ka tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:13,Biryani overcooked tha lekin service slow thi,FOOD#QUALITY,Biryani,0,7,negative
+4000000:13,Biryani overcooked tha lekin service slow thi,SERVICE#GENERAL,staff,34,39,negative
+4000000:14,Sandwich fresh aur lazeez tha aur ambience kaafi acha tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:14,Sandwich fresh aur lazeez tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:15,Sandwich bohot tasty tha lekin service fast thi,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:15,Sandwich bohot tasty tha lekin service fast thi,SERVICE#GENERAL,staff,36,41,positive
+4000000:16,Biryani kamal ka tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:17,Pasta fresh aur lazeez tha lekin service fast thi,FOOD#QUALITY,Pasta,0,5,positive
+4000000:17,Pasta fresh aur lazeez tha lekin service fast thi,SERVICE#GENERAL,staff,38,43,positive
+4000000:18,Sandwich fresh aur lazeez tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:18,Sandwich fresh aur lazeez tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,41,46,negative
+4000000:18,Sandwich fresh aur lazeez tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:19,Burger taste acha nahi tha aur ambience boring thi,FOOD#QUALITY,Burger,0,6,negative
+4000000:19,Burger taste acha nahi tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:20,Karahi thanda tha lekin service fast thi aur environment bilkul acha nahi tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:20,Karahi thanda tha lekin service fast thi aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,29,34,positive
+4000000:20,Karahi thanda tha lekin service fast thi aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:21,Sandwich perfectly cooked tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:22,Pasta fresh aur lazeez tha lekin staff bohot polite tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:22,Pasta fresh aur lazeez tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,38,43,positive
+4000000:23,Zinger burger taste acha nahi tha lekin service slow thi aur environment bilkul acha nahi tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:23,Zinger burger taste acha nahi tha lekin service slow thi aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,45,50,negative
+4000000:23,Zinger burger taste acha nahi tha lekin service slow thi aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:24,Burger thanda tha lekin service slow thi,FOOD#QUALITY,Burger,0,6,negative
+4000000:24,Burger thanda tha lekin service slow thi,SERVICE#GENERAL,staff,29,34,negative
+4000000:25,Biryani bilkul bekaar tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:26,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur environment peaceful tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:26,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur environment peaceful tha,SERVICE#GENERAL,staff,36,41,negative
+4000000:26,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:27,Sandwich overcooked tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:28,Sandwich perfectly cooked tha aur ambience boring thi,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:28,Sandwich perfectly cooked tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:29,Pizza overcooked tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:29,Pizza overcooked tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,32,37,negative
+4000000:30,Pizza overcooked tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:31,Sandwich bilkul bekaar tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:31,Sandwich bilkul bekaar tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:32,Fries thanda tha aur environment peaceful tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:32,Fries thanda tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:33,Karahi kamal ka tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:34,Burger overcooked tha lekin service fast thi,FOOD#QUALITY,Burger,0,6,negative
+4000000:34,Burger overcooked tha lekin service fast thi,SERVICE#GENERAL,staff,33,38,positive
+4000000:35,Pizza perfectly cooked tha lekin waiter cooperative tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:35,Pizza perfectly cooked tha lekin waiter cooperative tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,38,43,positive
+4000000:35,Pizza perfectly cooked tha lekin waiter cooperative tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:36,Sandwich overcooked tha lekin service fast thi,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:36,Sandwich overcooked tha lekin service fast thi,SERVICE#GENERAL,staff,35,40,positive
+4000000:37,Biryani taste acha nahi tha lekin service fast thi,FOOD#QUALITY,Biryani,0,7,negative
+4000000:37,Biryani taste acha nahi tha lekin service fast thi,SERVICE#GENERAL,staff,39,44,positive
+4000000:38,Pasta kamal ka tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:38,Pasta kamal ka tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,30,35,negative
+4000000:39,Karahi fresh aur lazeez tha lekin service fast thi aur ambience boring thi,FOOD#QUALITY,Karahi,0,6,positive
+4000000:39,Karahi fresh aur lazeez tha lekin service fast thi aur ambience boring thi,SERVICE#GENERAL,staff,39,44,positive
+4000000:39,Karahi fresh aur lazeez tha lekin service fast thi aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:40,Biryani kamal ka tha lekin service slow thi aur environment bilkul acha nahi tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:40,Biryani kamal ka tha lekin service slow thi aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,32,37,negative
+4000000:40,Biryani kamal ka tha lekin service slow thi aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:41,Burger fresh aur lazeez tha aur ambience kaafi acha tha,FOOD#QUALITY,Burger,0,6,positive
+4000000:41,Burger fresh aur lazeez tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:42,Fries fresh aur lazeez tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:43,Biryani perfectly cooked tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:44,Pasta overcooked tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:45,Pasta thanda tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:46,Pasta taste acha nahi tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:47,Karahi overcooked tha lekin staff bohot polite tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:47,Karahi overcooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,33,38,positive
+4000000:48,Pasta thanda tha lekin staff bohot polite tha aur environment peaceful tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:48,Pasta thanda tha lekin staff bohot polite tha aur environment peaceful tha,SERVICE#GENERAL,staff,28,33,positive
+4000000:48,Pasta thanda tha lekin staff bohot polite tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:49,Pasta bilkul bekaar tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:50,Sandwich bohot tasty tha lekin staff bohot polite tha aur environment peaceful tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:50,Sandwich bohot tasty tha lekin staff bohot polite tha aur environment peaceful tha,SERVICE#GENERAL,staff,36,41,positive
+4000000:50,Sandwich bohot tasty tha lekin staff bohot polite tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:51,Burger bohot tasty tha lekin waiter cooperative tha,FOOD#QUALITY,Burger,0,6,positive
+4000000:51,Burger bohot tasty tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,34,39,positive
+4000000:52,Fries bohot tasty tha aur environment peaceful tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:52,Fries bohot tasty tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:53,Burger thanda tha lekin service fast thi,FOOD#QUALITY,Burger,0,6,negative
+4000000:53,Burger thanda tha lekin service fast thi,SERVICE#GENERAL,staff,29,34,positive
+4000000:54,Zinger burger fresh aur lazeez tha aur environment peaceful tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:54,Zinger burger fresh aur lazeez tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:55,Sandwich taste acha nahi tha lekin staff rude tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:55,Sandwich taste acha nahi tha lekin staff rude tha,SERVICE#GENERAL,staff,40,45,negative
+4000000:56,Sandwich fresh aur lazeez tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:57,Biryani bohot tasty tha aur ambience boring thi,FOOD#QUALITY,Biryani,0,7,positive
+4000000:57,Biryani bohot tasty tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:58,Zinger burger taste acha nahi tha lekin staff rude tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:58,Zinger burger taste acha nahi tha lekin staff rude tha,SERVICE#GENERAL,staff,45,50,negative
+4000000:59,Fries bohot tasty tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:60,Sandwich perfectly cooked tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:60,Sandwich perfectly cooked tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,41,46,negative
+4000000:61,Zinger burger bilkul bekaar tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:61,Zinger burger bilkul bekaar tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:62,Fries bohot tasty tha aur ambience boring thi,FOOD#QUALITY,Fries,0,5,positive
+4000000:62,Fries bohot tasty tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:63,Zinger burger bohot tasty tha lekin staff rude tha aur ambience boring thi,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:63,Zinger burger bohot tasty tha lekin staff rude tha aur ambience boring thi,SERVICE#GENERAL,staff,41,46,negative
+4000000:63,Zinger burger bohot tasty tha lekin staff rude tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:64,Pizza bilkul bekaar tha lekin service fast thi aur ambience kaafi acha tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:64,Pizza bilkul bekaar tha lekin service fast thi aur ambience kaafi acha tha,SERVICE#GENERAL,staff,35,40,positive
+4000000:64,Pizza bilkul bekaar tha lekin service fast thi aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:65,Biryani perfectly cooked tha lekin staff bohot polite tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:65,Biryani perfectly cooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,40,45,positive
+4000000:66,Karahi overcooked tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:67,Fries overcooked tha lekin service slow thi aur ambience kaafi acha tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:67,Fries overcooked tha lekin service slow thi aur ambience kaafi acha tha,SERVICE#GENERAL,staff,32,37,negative
+4000000:67,Fries overcooked tha lekin service slow thi aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:68,Fries thanda tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:68,Fries thanda tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,28,33,negative
+4000000:69,Pizza overcooked tha lekin waiter cooperative tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:69,Pizza overcooked tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,32,37,positive
+4000000:70,Biryani kamal ka tha lekin staff bohot polite tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:70,Biryani kamal ka tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,32,37,positive
+4000000:71,Sandwich taste acha nahi tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:72,Biryani bohot tasty tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:73,Pizza fresh aur lazeez tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:74,Pizza bilkul bekaar tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:75,Fries fresh aur lazeez tha lekin staff rude tha aur ambience boring thi,FOOD#QUALITY,Fries,0,5,positive
+4000000:75,Fries fresh aur lazeez tha lekin staff rude tha aur ambience boring thi,SERVICE#GENERAL,staff,38,43,negative
+4000000:75,Fries fresh aur lazeez tha lekin staff rude tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:76,Biryani bohot tasty tha lekin service slow thi,FOOD#QUALITY,Biryani,0,7,positive
+4000000:76,Biryani bohot tasty tha lekin service slow thi,SERVICE#GENERAL,staff,35,40,negative
+4000000:77,Biryani taste acha nahi tha lekin waiter cooperative tha aur ambience kaafi acha tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:77,Biryani taste acha nahi tha lekin waiter cooperative tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,39,44,positive
+4000000:77,Biryani taste acha nahi tha lekin waiter cooperative tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:78,Biryani thanda tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:78,Biryani thanda tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,30,35,negative
+4000000:79,Zinger burger kamal ka tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:80,Pizza taste acha nahi tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:81,Pizza taste acha nahi tha aur environment peaceful tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:81,Pizza taste acha nahi tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:82,Karahi bohot tasty tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:83,Karahi bilkul bekaar tha lekin service slow thi,FOOD#QUALITY,Karahi,0,6,negative
+4000000:83,Karahi bilkul bekaar tha lekin service slow thi,SERVICE#GENERAL,staff,36,41,negative
+4000000:84,Pasta perfectly cooked tha lekin staff bohot polite tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:84,Pasta perfectly cooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,38,43,positive
+4000000:85,Sandwich taste acha nahi tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:85,Sandwich taste acha nahi tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,40,45,negative
+4000000:86,Pizza thanda tha lekin service fast thi aur environment peaceful tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:86,Pizza thanda tha lekin service fast thi aur environment peaceful tha,SERVICE#GENERAL,staff,28,33,positive
+4000000:86,Pizza thanda tha lekin service fast thi aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:87,Fries bohot tasty tha lekin staff rude tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:87,Fries bohot tasty tha lekin staff rude tha,SERVICE#GENERAL,staff,33,38,negative
+4000000:88,Burger bohot tasty tha,FOOD#QUALITY,Burger,0,6,positive
+4000000:89,Zinger burger overcooked tha lekin staff bohot polite tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:89,Zinger burger overcooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,40,45,positive
+4000000:90,Karahi perfectly cooked tha lekin service slow thi,FOOD#QUALITY,Karahi,0,6,positive
+4000000:90,Karahi perfectly cooked tha lekin service slow thi,SERVICE#GENERAL,staff,39,44,negative
+4000000:91,Fries kamal ka tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:92,Burger taste acha nahi tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:93,Karahi perfectly cooked tha lekin service slow thi aur ambience boring thi,FOOD#QUALITY,Karahi,0,6,positive
+4000000:93,Karahi perfectly cooked tha lekin service slow thi aur ambience boring thi,SERVICE#GENERAL,staff,39,44,negative
+4000000:93,Karahi perfectly cooked tha lekin service slow thi aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:94,Zinger burger bohot tasty tha lekin service fast thi aur ambience kaafi acha tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:94,Zinger burger bohot tasty tha lekin service fast thi aur ambience kaafi acha tha,SERVICE#GENERAL,staff,41,46,positive
+4000000:94,Zinger burger bohot tasty tha lekin service fast thi aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:95,Burger thanda tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:96,Sandwich perfectly cooked tha lekin staff bohot polite tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:96,Sandwich perfectly cooked tha lekin staff bohot polite tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,41,46,positive
+4000000:96,Sandwich perfectly cooked tha lekin staff bohot polite tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:97,Pasta thanda tha aur ambience boring thi,FOOD#QUALITY,Pasta,0,5,negative
+4000000:97,Pasta thanda tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:98,Pasta fresh aur lazeez tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:99,Sandwich overcooked tha lekin staff bohot polite tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:99,Sandwich overcooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,35,40,positive
+4000000:100,Karahi perfectly cooked tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:101,Zinger burger bohot tasty tha lekin service slow thi,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:101,Zinger burger bohot tasty tha lekin service slow thi,SERVICE#GENERAL,staff,41,46,negative
+4000000:102,Karahi thanda tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:103,Biryani taste acha nahi tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:103,Biryani taste acha nahi tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:104,Biryani overcooked tha lekin waiter cooperative tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:104,Biryani overcooked tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,34,39,positive
+4000000:105,Sandwich thanda tha lekin waiter bilkul attentive nahi tha aur ambience boring thi,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:105,Sandwich thanda tha lekin waiter bilkul attentive nahi tha aur ambience boring thi,SERVICE#GENERAL,staff,31,36,negative
+4000000:105,Sandwich thanda tha lekin waiter bilkul attentive nahi tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:106,Sandwich overcooked tha lekin service slow thi,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:106,Sandwich overcooked tha lekin service slow thi,SERVICE#GENERAL,staff,35,40,negative
+4000000:107,Fries taste acha nahi tha aur ambience boring thi,FOOD#QUALITY,Fries,0,5,negative
+4000000:107,Fries taste acha nahi tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:108,Biryani bohot tasty tha lekin staff bohot polite tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:108,Biryani bohot tasty tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,35,40,positive
+4000000:109,Pizza bohot tasty tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:110,Zinger burger bohot tasty tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:111,Burger overcooked tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:111,Burger overcooked tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,33,38,negative
+4000000:112,Pizza overcooked tha aur environment peaceful tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:112,Pizza overcooked tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:113,Pasta kamal ka tha lekin waiter bilkul attentive nahi tha aur ambience boring thi,FOOD#QUALITY,Pasta,0,5,positive
+4000000:113,Pasta kamal ka tha lekin waiter bilkul attentive nahi tha aur ambience boring thi,SERVICE#GENERAL,staff,30,35,negative
+4000000:113,Pasta kamal ka tha lekin waiter bilkul attentive nahi tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:114,Sandwich fresh aur lazeez tha lekin service slow thi,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:114,Sandwich fresh aur lazeez tha lekin service slow thi,SERVICE#GENERAL,staff,41,46,negative
+4000000:115,Fries kamal ka tha lekin waiter bilkul attentive nahi tha aur environment peaceful tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:115,Fries kamal ka tha lekin waiter bilkul attentive nahi tha aur environment peaceful tha,SERVICE#GENERAL,staff,30,35,negative
+4000000:115,Fries kamal ka tha lekin waiter bilkul attentive nahi tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:116,Fries bohot tasty tha lekin service fast thi aur ambience boring thi,FOOD#QUALITY,Fries,0,5,positive
+4000000:116,Fries bohot tasty tha lekin service fast thi aur ambience boring thi,SERVICE#GENERAL,staff,33,38,positive
+4000000:116,Fries bohot tasty tha lekin service fast thi aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:117,Zinger burger taste acha nahi tha lekin service slow thi,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:117,Zinger burger taste acha nahi tha lekin service slow thi,SERVICE#GENERAL,staff,45,50,negative
+4000000:118,Sandwich thanda tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:119,Sandwich bilkul bekaar tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:120,Burger fresh aur lazeez tha,FOOD#QUALITY,Burger,0,6,positive
+4000000:121,Zinger burger bohot tasty tha lekin service fast thi aur ambience boring thi,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:121,Zinger burger bohot tasty tha lekin service fast thi aur ambience boring thi,SERVICE#GENERAL,staff,41,46,positive
+4000000:121,Zinger burger bohot tasty tha lekin service fast thi aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:122,Biryani kamal ka tha lekin service fast thi aur ambience kaafi acha tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:122,Biryani kamal ka tha lekin service fast thi aur ambience kaafi acha tha,SERVICE#GENERAL,staff,32,37,positive
+4000000:122,Biryani kamal ka tha lekin service fast thi aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:123,Pasta overcooked tha lekin staff bohot polite tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:123,Pasta overcooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,32,37,positive
+4000000:124,Pizza bohot tasty tha lekin service fast thi,FOOD#QUALITY,Pizza,0,5,positive
+4000000:124,Pizza bohot tasty tha lekin service fast thi,SERVICE#GENERAL,staff,33,38,positive
+4000000:125,Pasta perfectly cooked tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:126,Fries bilkul bekaar tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:127,Burger bilkul bekaar tha lekin service fast thi aur environment peaceful tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:127,Burger bilkul bekaar tha lekin service fast thi aur environment peaceful tha,SERVICE#GENERAL,staff,36,41,positive
+4000000:127,Burger bilkul bekaar tha lekin service fast thi aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:128,Karahi bilkul bekaar tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:128,Karahi bilkul bekaar tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:129,Pizza fresh aur lazeez tha aur ambience boring thi,FOOD#QUALITY,Pizza,0,5,positive
+4000000:129,Pizza fresh aur lazeez tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:130,Karahi perfectly cooked tha lekin staff bohot polite tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:130,Karahi perfectly cooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,39,44,positive
+4000000:131,Burger bilkul bekaar tha aur environment peaceful tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:131,Burger bilkul bekaar tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:132,Biryani kamal ka tha lekin service fast thi,FOOD#QUALITY,Biryani,0,7,positive
+4000000:132,Biryani kamal ka tha lekin service fast thi,SERVICE#GENERAL,staff,32,37,positive
+4000000:133,Zinger burger kamal ka tha lekin staff bohot polite tha aur ambience kaafi acha tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:133,Zinger burger kamal ka tha lekin staff bohot polite tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,38,43,positive
+4000000:133,Zinger burger kamal ka tha lekin staff bohot polite tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:134,Zinger burger fresh aur lazeez tha lekin waiter cooperative tha aur environment peaceful tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:134,Zinger burger fresh aur lazeez tha lekin waiter cooperative tha aur environment peaceful tha,SERVICE#GENERAL,staff,46,51,positive
+4000000:134,Zinger burger fresh aur lazeez tha lekin waiter cooperative tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:135,Biryani overcooked tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:135,Biryani overcooked tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:136,Pizza thanda tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:137,Biryani overcooked tha lekin staff bohot polite tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:137,Biryani overcooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,34,39,positive
+4000000:138,Burger bilkul bekaar tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:138,Burger bilkul bekaar tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,36,41,negative
+4000000:139,Biryani kamal ka tha lekin staff rude tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:139,Biryani kamal ka tha lekin staff rude tha,SERVICE#GENERAL,staff,32,37,negative
+4000000:140,Pasta taste acha nahi tha lekin waiter cooperative tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:140,Pasta taste acha nahi tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,37,42,positive
+4000000:141,Sandwich bohot tasty tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:141,Sandwich bohot tasty tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:142,Zinger burger fresh aur lazeez tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:143,Pizza kamal ka tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:144,Fries kamal ka tha lekin service slow thi,FOOD#QUALITY,Fries,0,5,positive
+4000000:144,Fries kamal ka tha lekin service slow thi,SERVICE#GENERAL,staff,30,35,negative
+4000000:145,Pasta bohot tasty tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:146,Biryani thanda tha lekin service fast thi,FOOD#QUALITY,Biryani,0,7,negative
+4000000:146,Biryani thanda tha lekin service fast thi,SERVICE#GENERAL,staff,30,35,positive
+4000000:147,Zinger burger bilkul bekaar tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:148,Burger perfectly cooked tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Burger,0,6,positive
+4000000:148,Burger perfectly cooked tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,39,44,negative
+4000000:149,Biryani bohot tasty tha aur ambience kaafi acha tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:149,Biryani bohot tasty tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:150,Burger overcooked tha lekin waiter cooperative tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:150,Burger overcooked tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,33,38,positive
+4000000:151,Fries thanda tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:152,Fries bilkul bekaar tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:152,Fries bilkul bekaar tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,35,40,negative
+4000000:153,Fries overcooked tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:154,Pizza kamal ka tha lekin staff rude tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:154,Pizza kamal ka tha lekin staff rude tha,SERVICE#GENERAL,staff,30,35,negative
+4000000:155,Zinger burger taste acha nahi tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:156,Pizza kamal ka tha lekin service fast thi,FOOD#QUALITY,Pizza,0,5,positive
+4000000:156,Pizza kamal ka tha lekin service fast thi,SERVICE#GENERAL,staff,30,35,positive
+4000000:157,Zinger burger bilkul bekaar tha lekin service fast thi,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:157,Zinger burger bilkul bekaar tha lekin service fast thi,SERVICE#GENERAL,staff,43,48,positive
+4000000:158,Biryani kamal ka tha lekin service slow thi,FOOD#QUALITY,Biryani,0,7,positive
+4000000:158,Biryani kamal ka tha lekin service slow thi,SERVICE#GENERAL,staff,32,37,negative
+4000000:159,Fries taste acha nahi tha lekin staff bohot polite tha,FOOD#QUALITY,Fries,0,5,negative
+4000000:159,Fries taste acha nahi tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,37,42,positive
+4000000:160,Karahi fresh aur lazeez tha lekin staff bohot polite tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:160,Karahi fresh aur lazeez tha lekin staff bohot polite tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,39,44,positive
+4000000:160,Karahi fresh aur lazeez tha lekin staff bohot polite tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:161,Karahi fresh aur lazeez tha aur ambience boring thi,FOOD#QUALITY,Karahi,0,6,positive
+4000000:161,Karahi fresh aur lazeez tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:162,Burger fresh aur lazeez tha lekin waiter cooperative tha,FOOD#QUALITY,Burger,0,6,positive
+4000000:162,Burger fresh aur lazeez tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,39,44,positive
+4000000:163,Pizza bohot tasty tha lekin staff bohot polite tha aur ambience kaafi acha tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:163,Pizza bohot tasty tha lekin staff bohot polite tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,33,38,positive
+4000000:163,Pizza bohot tasty tha lekin staff bohot polite tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:164,Zinger burger bilkul bekaar tha lekin staff rude tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:164,Zinger burger bilkul bekaar tha lekin staff rude tha,SERVICE#GENERAL,staff,43,48,negative
+4000000:165,Biryani fresh aur lazeez tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:166,Karahi overcooked tha lekin staff bohot polite tha aur ambience kaafi acha tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:166,Karahi overcooked tha lekin staff bohot polite tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,33,38,positive
+4000000:166,Karahi overcooked tha lekin staff bohot polite tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:167,Fries perfectly cooked tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:167,Fries perfectly cooked tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,38,43,negative
+4000000:168,Pizza kamal ka tha aur environment peaceful tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:168,Pizza kamal ka tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:169,Burger bilkul bekaar tha lekin service slow thi aur environment peaceful tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:169,Burger bilkul bekaar tha lekin service slow thi aur environment peaceful tha,SERVICE#GENERAL,staff,36,41,negative
+4000000:169,Burger bilkul bekaar tha lekin service slow thi aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:170,Karahi kamal ka tha aur ambience kaafi acha tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:170,Karahi kamal ka tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:171,Burger fresh aur lazeez tha aur ambience boring thi,FOOD#QUALITY,Burger,0,6,positive
+4000000:171,Burger fresh aur lazeez tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:172,Pasta overcooked tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:172,Pasta overcooked tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:173,Zinger burger fresh aur lazeez tha lekin staff bohot polite tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:173,Zinger burger fresh aur lazeez tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,46,51,positive
+4000000:174,Zinger burger taste acha nahi tha lekin service slow thi aur ambience kaafi acha tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:174,Zinger burger taste acha nahi tha lekin service slow thi aur ambience kaafi acha tha,SERVICE#GENERAL,staff,45,50,negative
+4000000:174,Zinger burger taste acha nahi tha lekin service slow thi aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:175,Biryani perfectly cooked tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:175,Biryani perfectly cooked tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,40,45,negative
+4000000:176,Zinger burger overcooked tha lekin service fast thi,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:176,Zinger burger overcooked tha lekin service fast thi,SERVICE#GENERAL,staff,40,45,positive
+4000000:177,Biryani bohot tasty tha lekin staff rude tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:177,Biryani bohot tasty tha lekin staff rude tha,SERVICE#GENERAL,staff,35,40,negative
+4000000:178,Karahi fresh aur lazeez tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:178,Karahi fresh aur lazeez tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,39,44,negative
+4000000:179,Pizza bohot tasty tha lekin waiter bilkul attentive nahi tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:179,Pizza bohot tasty tha lekin waiter bilkul attentive nahi tha,SERVICE#GENERAL,staff,33,38,negative
+4000000:180,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur ambience kaafi acha tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:180,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,36,41,negative
+4000000:180,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:181,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:181,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,36,41,negative
+4000000:181,Sandwich bohot tasty tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:182,Zinger burger thanda tha lekin staff bohot polite tha aur ambience boring thi,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:182,Zinger burger thanda tha lekin staff bohot polite tha aur ambience boring thi,SERVICE#GENERAL,staff,36,41,positive
+4000000:182,Zinger burger thanda tha lekin staff bohot polite tha aur ambience boring thi,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:183,Pizza fresh aur lazeez tha aur environment peaceful tha,FOOD#QUALITY,Pizza,0,5,positive
+4000000:183,Pizza fresh aur lazeez tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:184,Biryani thanda tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:184,Biryani thanda tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,30,35,negative
+4000000:184,Biryani thanda tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:185,Pizza taste acha nahi tha lekin waiter cooperative tha,FOOD#QUALITY,Pizza,0,5,negative
+4000000:185,Pizza taste acha nahi tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,37,42,positive
+4000000:186,Sandwich perfectly cooked tha aur environment peaceful tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:186,Sandwich perfectly cooked tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:187,Pasta perfectly cooked tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:187,Pasta perfectly cooked tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,38,43,negative
+4000000:187,Pasta perfectly cooked tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:188,Burger overcooked tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:189,Biryani overcooked tha lekin service fast thi,FOOD#QUALITY,Biryani,0,7,negative
+4000000:189,Biryani overcooked tha lekin service fast thi,SERVICE#GENERAL,staff,34,39,positive
+4000000:190,Karahi bilkul bekaar tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:191,Pasta taste acha nahi tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Pasta,0,5,negative
+4000000:191,Pasta taste acha nahi tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,37,42,negative
+4000000:191,Pasta taste acha nahi tha lekin waiter bilkul attentive nahi tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:192,Sandwich bilkul bekaar tha aur environment peaceful tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:192,Sandwich bilkul bekaar tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:193,Biryani bilkul bekaar tha aur ambience kaafi acha tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:193,Biryani bilkul bekaar tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:194,Burger kamal ka tha lekin staff bohot polite tha,FOOD#QUALITY,Burger,0,6,positive
+4000000:194,Burger kamal ka tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,31,36,positive
+4000000:195,Zinger burger kamal ka tha lekin service fast thi aur environment bilkul acha nahi tha,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:195,Zinger burger kamal ka tha lekin service fast thi aur environment bilkul acha nahi tha,SERVICE#GENERAL,staff,38,43,positive
+4000000:195,Zinger burger kamal ka tha lekin service fast thi aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:196,Burger bilkul bekaar tha lekin staff bohot polite tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:196,Burger bilkul bekaar tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,36,41,positive
+4000000:197,Pasta kamal ka tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:198,Sandwich overcooked tha lekin staff rude tha aur environment peaceful tha,FOOD#QUALITY,Sandwich,0,8,negative
+4000000:198,Sandwich overcooked tha lekin staff rude tha aur environment peaceful tha,SERVICE#GENERAL,staff,35,40,negative
+4000000:198,Sandwich overcooked tha lekin staff rude tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:199,Fries kamal ka tha aur environment peaceful tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:199,Fries kamal ka tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:200,Fries kamal ka tha lekin waiter cooperative tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:200,Fries kamal ka tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,30,35,positive
+4000000:201,Pasta perfectly cooked tha lekin staff rude tha aur ambience kaafi acha tha,FOOD#QUALITY,Pasta,0,5,positive
+4000000:201,Pasta perfectly cooked tha lekin staff rude tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,38,43,negative
+4000000:201,Pasta perfectly cooked tha lekin staff rude tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:202,Zinger burger kamal ka tha lekin service slow thi,FOOD#QUALITY,Zinger burger,0,13,positive
+4000000:202,Zinger burger kamal ka tha lekin service slow thi,SERVICE#GENERAL,staff,38,43,negative
+4000000:203,Sandwich kamal ka tha,FOOD#QUALITY,Sandwich,0,8,positive
+4000000:204,Burger bilkul bekaar tha aur ambience kaafi acha tha,FOOD#QUALITY,Burger,0,6,negative
+4000000:204,Burger bilkul bekaar tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:205,Biryani perfectly cooked tha lekin waiter bilkul attentive nahi tha aur ambience kaafi acha tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:205,Biryani perfectly cooked tha lekin waiter bilkul attentive nahi tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,40,45,negative
+4000000:205,Biryani perfectly cooked tha lekin waiter bilkul attentive nahi tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:206,Karahi bohot tasty tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Karahi,0,6,positive
+4000000:206,Karahi bohot tasty tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:207,Karahi thanda tha aur environment peaceful tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:207,Karahi thanda tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:208,Biryani thanda tha,FOOD#QUALITY,Biryani,0,7,negative
+4000000:209,Zinger burger overcooked tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:210,Zinger burger overcooked tha lekin staff rude tha,FOOD#QUALITY,Zinger burger,0,13,negative
+4000000:210,Zinger burger overcooked tha lekin staff rude tha,SERVICE#GENERAL,staff,40,45,negative
+4000000:211,Burger kamal ka tha lekin service slow thi,FOOD#QUALITY,Burger,0,6,positive
+4000000:211,Burger kamal ka tha lekin service slow thi,SERVICE#GENERAL,staff,31,36,negative
+4000000:212,Burger perfectly cooked tha lekin service slow thi,FOOD#QUALITY,Burger,0,6,positive
+4000000:212,Burger perfectly cooked tha lekin service slow thi,SERVICE#GENERAL,staff,39,44,negative
+4000000:213,Karahi thanda tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Karahi,0,6,negative
+4000000:213,Karahi thanda tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:214,Biryani bohot tasty tha aur environment bilkul acha nahi tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:214,Biryani bohot tasty tha aur environment bilkul acha nahi tha,AMBIENCE#GENERAL,ambience,0,0,negative
+4000000:215,Biryani perfectly cooked tha aur environment peaceful tha,FOOD#QUALITY,Biryani,0,7,positive
+4000000:215,Biryani perfectly cooked tha aur environment peaceful tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:216,Fries perfectly cooked tha lekin staff bohot polite tha aur ambience kaafi acha tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:216,Fries perfectly cooked tha lekin staff bohot polite tha aur ambience kaafi acha tha,SERVICE#GENERAL,staff,38,43,positive
+4000000:216,Fries perfectly cooked tha lekin staff bohot polite tha aur ambience kaafi acha tha,AMBIENCE#GENERAL,ambience,0,0,positive
+4000000:217,Fries perfectly cooked tha lekin waiter cooperative tha,FOOD#QUALITY,Fries,0,5,positive
+4000000:217,Fries perfectly cooked tha lekin waiter cooperative tha,SERVICE#GENERAL,staff,38,43,positive
+4000000:218,Burger bohot tasty tha lekin service fast thi,FOOD#QUALITY,Burger,0,6,positive
+4000000:218,Burger bohot tasty tha lekin service fast thi,SERVICE#GENERAL,staff,34,39,positive
+4000000:219,Karahi thanda tha lekin service fast thi,FOOD#QUALITY,Karahi,0,6,negative
+4000000:219,Karahi thanda tha lekin service fast thi,SERVICE#GENERAL,staff,29,34,positive
