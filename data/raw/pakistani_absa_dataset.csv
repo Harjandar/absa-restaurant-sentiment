@@ -1,0 +1,453 @@
+sentence_id,sentence,aspect_category,aspect_term,from,to,polarity
+1000000:0,delivery kaafi dair laga di,DELIVERY#GENERAL,delivery,0,8,negative
+1000001:0,service bad behaviour tha,SERVICE#GENERAL,service,0,7,negative
+1000002:0,chicken bohot tasty tha lekin service bohot polite tha lekin rider jaldi pohanch gaya,FOOD#QUALITY,chicken,0,7,positive
+1000002:1,chicken bohot tasty tha lekin service bohot polite tha lekin rider jaldi pohanch gaya,SERVICE#GENERAL,service,30,37,positive
+1000002:2,chicken bohot tasty tha lekin service bohot polite tha lekin rider jaldi pohanch gaya,DELIVERY#GENERAL,rider,61,66,positive
+1000003:0,rider bohot late aya lekin karahi beqar tha,DELIVERY#GENERAL,rider,0,5,negative
+1000003:1,rider bohot late aya lekin karahi beqar tha,FOOD#QUALITY,karahi,27,33,negative
+1000004:0,qorma perfect tha lekin waiter bad behaviour tha lekin rider bohot late aya,FOOD#QUALITY,qorma,0,5,positive
+1000004:1,qorma perfect tha lekin waiter bad behaviour tha lekin rider bohot late aya,SERVICE#GENERAL,waiter,24,30,negative
+1000004:2,qorma perfect tha lekin waiter bad behaviour tha lekin rider bohot late aya,DELIVERY#GENERAL,rider,55,60,negative
+1000005:0,staff acha behaviour tha,SERVICE#GENERAL,staff,0,5,positive
+1000006:0,nihari perfect tha,FOOD#QUALITY,nihari,0,6,positive
+1000007:0,nihari beqar tha,FOOD#QUALITY,nihari,0,6,negative
+1000008:0,biryani overcooked tha,FOOD#QUALITY,biryani,0,7,negative
+1000009:0,karahi beqar tha lekin service acha behaviour tha lekin order bohot late aya,FOOD#QUALITY,karahi,0,6,negative
+1000009:1,karahi beqar tha lekin service acha behaviour tha lekin order bohot late aya,SERVICE#GENERAL,service,23,30,positive
+1000009:2,karahi beqar tha lekin service acha behaviour tha lekin order bohot late aya,DELIVERY#GENERAL,order,56,61,negative
+1000010:0,rider bohot late aya lekin biryani bohot tasty tha lekin delivery boy bohot polite tha,DELIVERY#GENERAL,rider,0,5,negative
+1000010:1,rider bohot late aya lekin biryani bohot tasty tha lekin delivery boy bohot polite tha,FOOD#QUALITY,biryani,27,34,positive
+1000010:2,rider bohot late aya lekin biryani bohot tasty tha lekin delivery boy bohot polite tha,SERVICE#GENERAL,delivery boy,57,69,positive
+1000011:0,waiter acha behaviour tha lekin biryani overcooked tha,SERVICE#GENERAL,waiter,0,6,positive
+1000011:1,waiter acha behaviour tha lekin biryani overcooked tha,FOOD#QUALITY,biryani,32,39,negative
+1000012:0,order bohot late aya lekin karahi perfect tha lekin counter wala rude tha,DELIVERY#GENERAL,order,0,5,negative
+1000012:1,order bohot late aya lekin karahi perfect tha lekin counter wala rude tha,FOOD#QUALITY,karahi,27,33,positive
+1000012:2,order bohot late aya lekin karahi perfect tha lekin counter wala rude tha,SERVICE#GENERAL,counter wala,52,64,negative
+1000013:0,staff bohot polite tha lekin time time par aa gaya lekin chawal bohot tasty tha,SERVICE#GENERAL,staff,0,5,positive
+1000013:1,staff bohot polite tha lekin time time par aa gaya lekin chawal bohot tasty tha,DELIVERY#GENERAL,time,29,33,positive
+1000013:2,staff bohot polite tha lekin time time par aa gaya lekin chawal bohot tasty tha,FOOD#QUALITY,chawal,57,63,positive
+1000014:0,order jaldi pohanch gaya lekin chicken bohot tasty tha lekin service acha behaviour tha,DELIVERY#GENERAL,order,0,5,positive
+1000014:1,order jaldi pohanch gaya lekin chicken bohot tasty tha lekin service acha behaviour tha,FOOD#QUALITY,chicken,31,38,positive
+1000014:2,order jaldi pohanch gaya lekin chicken bohot tasty tha lekin service acha behaviour tha,SERVICE#GENERAL,service,61,68,positive
+1000015:0,rider jaldi pohanch gaya lekin nihari overcooked tha,DELIVERY#GENERAL,rider,0,5,positive
+1000015:1,rider jaldi pohanch gaya lekin nihari overcooked tha,FOOD#QUALITY,nihari,31,37,negative
+1000016:0,delivery boy bohot polite tha lekin order time par aa gaya,SERVICE#GENERAL,delivery boy,0,12,positive
+1000016:1,delivery boy bohot polite tha lekin order time par aa gaya,DELIVERY#GENERAL,order,36,41,positive
+1000017:0,chicken overcooked tha,FOOD#QUALITY,chicken,0,7,negative
+1000018:0,karahi bilkul acha nahi tha,FOOD#QUALITY,karahi,0,6,negative
+1000019:0,counter wala bad behaviour tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000020:0,nihari overcooked tha lekin order kaafi dair laga di lekin delivery boy bohot polite tha,FOOD#QUALITY,nihari,0,6,negative
+1000020:1,nihari overcooked tha lekin order kaafi dair laga di lekin delivery boy bohot polite tha,DELIVERY#GENERAL,order,28,33,negative
+1000020:2,nihari overcooked tha lekin order kaafi dair laga di lekin delivery boy bohot polite tha,SERVICE#GENERAL,delivery boy,59,71,positive
+1000021:0,chawal perfect tha,FOOD#QUALITY,chawal,0,6,positive
+1000022:0,order bohot late aya lekin karahi mazaydaar tha,DELIVERY#GENERAL,order,0,5,negative
+1000022:1,order bohot late aya lekin karahi mazaydaar tha,FOOD#QUALITY,karahi,27,33,positive
+1000023:0,delivery jaldi pohanch gaya lekin service acha behaviour tha lekin qorma bohot tasty tha,DELIVERY#GENERAL,delivery,0,8,positive
+1000023:1,delivery jaldi pohanch gaya lekin service acha behaviour tha lekin qorma bohot tasty tha,SERVICE#GENERAL,service,34,41,positive
+1000023:2,delivery jaldi pohanch gaya lekin service acha behaviour tha lekin qorma bohot tasty tha,FOOD#QUALITY,qorma,67,72,positive
+1000024:0,delivery jaldi pohanch gaya lekin nihari perfect tha,DELIVERY#GENERAL,delivery,0,8,positive
+1000024:1,delivery jaldi pohanch gaya lekin nihari perfect tha,FOOD#QUALITY,nihari,34,40,positive
+1000025:0,service rude tha lekin delivery bohot late aya lekin nihari beqar tha,SERVICE#GENERAL,service,0,7,negative
+1000025:1,service rude tha lekin delivery bohot late aya lekin nihari beqar tha,DELIVERY#GENERAL,delivery,23,31,negative
+1000025:2,service rude tha lekin delivery bohot late aya lekin nihari beqar tha,FOOD#QUALITY,nihari,53,59,negative
+1000026:0,counter wala bad behaviour tha lekin chawal beqar tha lekin delivery bohot late aya,SERVICE#GENERAL,counter wala,0,12,negative
+1000026:1,counter wala bad behaviour tha lekin chawal beqar tha lekin delivery bohot late aya,FOOD#QUALITY,chawal,37,43,negative
+1000026:2,counter wala bad behaviour tha lekin chawal beqar tha lekin delivery bohot late aya,DELIVERY#GENERAL,delivery,60,68,negative
+1000027:0,delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,0,8,positive
+1000028:0,chawal mazaydaar tha,FOOD#QUALITY,chawal,0,6,positive
+1000029:0,staff rude tha,SERVICE#GENERAL,staff,0,5,negative
+1000030:0,rider jaldi pohanch gaya lekin delivery boy rude tha,DELIVERY#GENERAL,rider,0,5,positive
+1000030:1,rider jaldi pohanch gaya lekin delivery boy rude tha,SERVICE#GENERAL,delivery boy,31,43,negative
+1000031:0,counter wala rude tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000032:0,nihari bohot tasty tha lekin waiter acha behaviour tha,FOOD#QUALITY,nihari,0,6,positive
+1000032:1,nihari bohot tasty tha lekin waiter acha behaviour tha,SERVICE#GENERAL,waiter,29,35,positive
+1000033:0,delivery boy bohot polite tha,SERVICE#GENERAL,delivery boy,0,12,positive
+1000034:0,order jaldi pohanch gaya,DELIVERY#GENERAL,order,0,5,positive
+1000035:0,time time par aa gaya lekin qorma overcooked tha,DELIVERY#GENERAL,time,0,4,positive
+1000035:1,time time par aa gaya lekin qorma overcooked tha,FOOD#QUALITY,qorma,28,33,negative
+1000036:0,waiter bad behaviour tha lekin paratha bilkul acha nahi tha lekin time time par aa gaya,SERVICE#GENERAL,waiter,0,6,negative
+1000036:1,waiter bad behaviour tha lekin paratha bilkul acha nahi tha lekin time time par aa gaya,FOOD#QUALITY,paratha,31,38,negative
+1000036:2,waiter bad behaviour tha lekin paratha bilkul acha nahi tha lekin time time par aa gaya,DELIVERY#GENERAL,time,66,70,positive
+1000037:0,biryani bilkul acha nahi tha lekin waiter bad behaviour tha lekin rider kaafi dair laga di,FOOD#QUALITY,biryani,0,7,negative
+1000037:1,biryani bilkul acha nahi tha lekin waiter bad behaviour tha lekin rider kaafi dair laga di,SERVICE#GENERAL,waiter,35,41,negative
+1000037:2,biryani bilkul acha nahi tha lekin waiter bad behaviour tha lekin rider kaafi dair laga di,DELIVERY#GENERAL,rider,66,71,negative
+1000038:0,waiter bohot polite tha lekin delivery time par aa gaya,SERVICE#GENERAL,waiter,0,6,positive
+1000038:1,waiter bohot polite tha lekin delivery time par aa gaya,DELIVERY#GENERAL,delivery,30,38,positive
+1000039:0,counter wala bad behaviour tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000040:0,rider jaldi pohanch gaya lekin chawal bilkul acha nahi tha lekin staff bad behaviour tha,DELIVERY#GENERAL,rider,0,5,positive
+1000040:1,rider jaldi pohanch gaya lekin chawal bilkul acha nahi tha lekin staff bad behaviour tha,FOOD#QUALITY,chawal,31,37,negative
+1000040:2,rider jaldi pohanch gaya lekin chawal bilkul acha nahi tha lekin staff bad behaviour tha,SERVICE#GENERAL,staff,65,70,negative
+1000041:0,karahi bilkul acha nahi tha lekin delivery boy rude tha lekin time time par aa gaya,FOOD#QUALITY,karahi,0,6,negative
+1000041:1,karahi bilkul acha nahi tha lekin delivery boy rude tha lekin time time par aa gaya,SERVICE#GENERAL,delivery boy,34,46,negative
+1000041:2,karahi bilkul acha nahi tha lekin delivery boy rude tha lekin time time par aa gaya,DELIVERY#GENERAL,time,62,66,positive
+1000042:0,service rude tha lekin biryani overcooked tha lekin delivery time par aa gaya,SERVICE#GENERAL,service,0,7,negative
+1000042:1,service rude tha lekin biryani overcooked tha lekin delivery time par aa gaya,FOOD#QUALITY,biryani,23,30,negative
+1000042:2,service rude tha lekin biryani overcooked tha lekin delivery time par aa gaya,DELIVERY#GENERAL,delivery,52,60,positive
+1000043:0,counter wala rude tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000044:0,nihari overcooked tha lekin time jaldi pohanch gaya lekin service bad behaviour tha,FOOD#QUALITY,nihari,0,6,negative
+1000044:1,nihari overcooked tha lekin time jaldi pohanch gaya lekin service bad behaviour tha,DELIVERY#GENERAL,time,28,32,positive
+1000044:2,nihari overcooked tha lekin time jaldi pohanch gaya lekin service bad behaviour tha,SERVICE#GENERAL,service,58,65,negative
+1000045:0,waiter bad behaviour tha lekin time kaafi dair laga di lekin qorma perfect tha,SERVICE#GENERAL,waiter,0,6,negative
+1000045:1,waiter bad behaviour tha lekin time kaafi dair laga di lekin qorma perfect tha,DELIVERY#GENERAL,time,31,35,negative
+1000045:2,waiter bad behaviour tha lekin time kaafi dair laga di lekin qorma perfect tha,FOOD#QUALITY,qorma,61,66,positive
+1000046:0,order kaafi dair laga di lekin qorma perfect tha lekin delivery boy rude tha,DELIVERY#GENERAL,order,0,5,negative
+1000046:1,order kaafi dair laga di lekin qorma perfect tha lekin delivery boy rude tha,FOOD#QUALITY,qorma,31,36,positive
+1000046:2,order kaafi dair laga di lekin qorma perfect tha lekin delivery boy rude tha,SERVICE#GENERAL,delivery boy,55,67,negative
+1000047:0,qorma overcooked tha lekin time kaafi dair laga di lekin delivery boy bad behaviour tha,FOOD#QUALITY,qorma,0,5,negative
+1000047:1,qorma overcooked tha lekin time kaafi dair laga di lekin delivery boy bad behaviour tha,DELIVERY#GENERAL,time,27,31,negative
+1000047:2,qorma overcooked tha lekin time kaafi dair laga di lekin delivery boy bad behaviour tha,SERVICE#GENERAL,delivery boy,57,69,negative
+1000048:0,qorma overcooked tha,FOOD#QUALITY,qorma,0,5,negative
+1000049:0,staff acha behaviour tha lekin chicken perfect tha lekin delivery bohot late aya,SERVICE#GENERAL,staff,0,5,positive
+1000049:1,staff acha behaviour tha lekin chicken perfect tha lekin delivery bohot late aya,FOOD#QUALITY,chicken,31,38,positive
+1000049:2,staff acha behaviour tha lekin chicken perfect tha lekin delivery bohot late aya,DELIVERY#GENERAL,delivery,57,65,negative
+1000050:0,delivery kaafi dair laga di lekin chawal beqar tha,DELIVERY#GENERAL,delivery,0,8,negative
+1000050:1,delivery kaafi dair laga di lekin chawal beqar tha,FOOD#QUALITY,chawal,34,40,negative
+1000051:0,counter wala bohot polite tha lekin karahi beqar tha,SERVICE#GENERAL,counter wala,0,12,positive
+1000051:1,counter wala bohot polite tha lekin karahi beqar tha,FOOD#QUALITY,karahi,36,42,negative
+1000052:0,paratha beqar tha,FOOD#QUALITY,paratha,0,7,negative
+1000053:0,delivery bohot late aya,DELIVERY#GENERAL,delivery,0,8,negative
+1000054:0,delivery boy acha behaviour tha lekin nihari overcooked tha lekin order jaldi pohanch gaya,SERVICE#GENERAL,delivery boy,0,12,positive
+1000054:1,delivery boy acha behaviour tha lekin nihari overcooked tha lekin order jaldi pohanch gaya,FOOD#QUALITY,nihari,38,44,negative
+1000054:2,delivery boy acha behaviour tha lekin nihari overcooked tha lekin order jaldi pohanch gaya,DELIVERY#GENERAL,order,66,71,positive
+1000055:0,staff bad behaviour tha lekin nihari bilkul acha nahi tha,SERVICE#GENERAL,staff,0,5,negative
+1000055:1,staff bad behaviour tha lekin nihari bilkul acha nahi tha,FOOD#QUALITY,nihari,30,36,negative
+1000056:0,staff bohot polite tha lekin order kaafi dair laga di,SERVICE#GENERAL,staff,0,5,positive
+1000056:1,staff bohot polite tha lekin order kaafi dair laga di,DELIVERY#GENERAL,order,29,34,negative
+1000057:0,nihari mazaydaar tha lekin order kaafi dair laga di lekin counter wala bad behaviour tha,FOOD#QUALITY,nihari,0,6,positive
+1000057:1,nihari mazaydaar tha lekin order kaafi dair laga di lekin counter wala bad behaviour tha,DELIVERY#GENERAL,order,27,32,negative
+1000057:2,nihari mazaydaar tha lekin order kaafi dair laga di lekin counter wala bad behaviour tha,SERVICE#GENERAL,counter wala,58,70,negative
+1000058:0,service rude tha,SERVICE#GENERAL,service,0,7,negative
+1000059:0,counter wala bohot polite tha lekin time time par aa gaya lekin qorma beqar tha,SERVICE#GENERAL,counter wala,0,12,positive
+1000059:1,counter wala bohot polite tha lekin time time par aa gaya lekin qorma beqar tha,DELIVERY#GENERAL,time,36,40,positive
+1000059:2,counter wala bohot polite tha lekin time time par aa gaya lekin qorma beqar tha,FOOD#QUALITY,qorma,64,69,negative
+1000060:0,order kaafi dair laga di lekin qorma bilkul acha nahi tha,DELIVERY#GENERAL,order,0,5,negative
+1000060:1,order kaafi dair laga di lekin qorma bilkul acha nahi tha,FOOD#QUALITY,qorma,31,36,negative
+1000061:0,paratha bilkul acha nahi tha lekin delivery bohot late aya,FOOD#QUALITY,paratha,0,7,negative
+1000061:1,paratha bilkul acha nahi tha lekin delivery bohot late aya,DELIVERY#GENERAL,delivery,35,43,negative
+1000062:0,paratha perfect tha lekin delivery bohot late aya lekin counter wala bohot polite tha,FOOD#QUALITY,paratha,0,7,positive
+1000062:1,paratha perfect tha lekin delivery bohot late aya lekin counter wala bohot polite tha,DELIVERY#GENERAL,delivery,26,34,negative
+1000062:2,paratha perfect tha lekin delivery bohot late aya lekin counter wala bohot polite tha,SERVICE#GENERAL,counter wala,56,68,positive
+1000063:0,staff bad behaviour tha lekin order kaafi dair laga di lekin qorma beqar tha,SERVICE#GENERAL,staff,0,5,negative
+1000063:1,staff bad behaviour tha lekin order kaafi dair laga di lekin qorma beqar tha,DELIVERY#GENERAL,order,30,35,negative
+1000063:2,staff bad behaviour tha lekin order kaafi dair laga di lekin qorma beqar tha,FOOD#QUALITY,qorma,61,66,negative
+1000064:0,nihari mazaydaar tha lekin rider time par aa gaya,FOOD#QUALITY,nihari,0,6,positive
+1000064:1,nihari mazaydaar tha lekin rider time par aa gaya,DELIVERY#GENERAL,rider,27,32,positive
+1000065:0,waiter bohot polite tha,SERVICE#GENERAL,waiter,0,6,positive
+1000066:0,service rude tha,SERVICE#GENERAL,service,0,7,negative
+1000067:0,staff bohot polite tha lekin rider time par aa gaya lekin nihari bohot tasty tha,SERVICE#GENERAL,staff,0,5,positive
+1000067:1,staff bohot polite tha lekin rider time par aa gaya lekin nihari bohot tasty tha,DELIVERY#GENERAL,rider,29,34,positive
+1000067:2,staff bohot polite tha lekin rider time par aa gaya lekin nihari bohot tasty tha,FOOD#QUALITY,nihari,58,64,positive
+1000068:0,time bohot late aya lekin chawal bohot tasty tha lekin service bad behaviour tha,DELIVERY#GENERAL,time,0,4,negative
+1000068:1,time bohot late aya lekin chawal bohot tasty tha lekin service bad behaviour tha,FOOD#QUALITY,chawal,26,32,positive
+1000068:2,time bohot late aya lekin chawal bohot tasty tha lekin service bad behaviour tha,SERVICE#GENERAL,service,55,62,negative
+1000069:0,service rude tha lekin qorma beqar tha lekin time kaafi dair laga di,SERVICE#GENERAL,service,0,7,negative
+1000069:1,service rude tha lekin qorma beqar tha lekin time kaafi dair laga di,FOOD#QUALITY,qorma,23,28,negative
+1000069:2,service rude tha lekin qorma beqar tha lekin time kaafi dair laga di,DELIVERY#GENERAL,time,45,49,negative
+1000070:0,delivery bohot late aya,DELIVERY#GENERAL,delivery,0,8,negative
+1000071:0,delivery jaldi pohanch gaya lekin counter wala bad behaviour tha,DELIVERY#GENERAL,delivery,0,8,positive
+1000071:1,delivery jaldi pohanch gaya lekin counter wala bad behaviour tha,SERVICE#GENERAL,counter wala,34,46,negative
+1000072:0,qorma bohot tasty tha lekin order bohot late aya,FOOD#QUALITY,qorma,0,5,positive
+1000072:1,qorma bohot tasty tha lekin order bohot late aya,DELIVERY#GENERAL,order,28,33,negative
+1000073:0,nihari perfect tha lekin delivery boy bad behaviour tha lekin delivery jaldi pohanch gaya,FOOD#QUALITY,nihari,0,6,positive
+1000073:1,nihari perfect tha lekin delivery boy bad behaviour tha lekin delivery jaldi pohanch gaya,SERVICE#GENERAL,delivery boy,25,37,negative
+1000073:2,nihari perfect tha lekin delivery boy bad behaviour tha lekin delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,25,33,positive
+1000074:0,time time par aa gaya,DELIVERY#GENERAL,time,0,4,positive
+1000075:0,counter wala bad behaviour tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000076:0,delivery boy bad behaviour tha lekin delivery kaafi dair laga di,SERVICE#GENERAL,delivery boy,0,12,negative
+1000076:1,delivery boy bad behaviour tha lekin delivery kaafi dair laga di,DELIVERY#GENERAL,delivery,0,8,negative
+1000077:0,paratha perfect tha,FOOD#QUALITY,paratha,0,7,positive
+1000078:0,time time par aa gaya lekin delivery boy acha behaviour tha,DELIVERY#GENERAL,time,0,4,positive
+1000078:1,time time par aa gaya lekin delivery boy acha behaviour tha,SERVICE#GENERAL,delivery boy,28,40,positive
+1000079:0,chawal beqar tha lekin service bohot polite tha lekin time time par aa gaya,FOOD#QUALITY,chawal,0,6,negative
+1000079:1,chawal beqar tha lekin service bohot polite tha lekin time time par aa gaya,SERVICE#GENERAL,service,23,30,positive
+1000079:2,chawal beqar tha lekin service bohot polite tha lekin time time par aa gaya,DELIVERY#GENERAL,time,54,58,positive
+1000080:0,order time par aa gaya lekin karahi overcooked tha,DELIVERY#GENERAL,order,0,5,positive
+1000080:1,order time par aa gaya lekin karahi overcooked tha,FOOD#QUALITY,karahi,29,35,negative
+1000081:0,qorma perfect tha lekin delivery boy acha behaviour tha,FOOD#QUALITY,qorma,0,5,positive
+1000081:1,qorma perfect tha lekin delivery boy acha behaviour tha,SERVICE#GENERAL,delivery boy,24,36,positive
+1000082:0,nihari perfect tha,FOOD#QUALITY,nihari,0,6,positive
+1000083:0,rider bohot late aya lekin nihari overcooked tha,DELIVERY#GENERAL,rider,0,5,negative
+1000083:1,rider bohot late aya lekin nihari overcooked tha,FOOD#QUALITY,nihari,27,33,negative
+1000084:0,chawal mazaydaar tha lekin waiter acha behaviour tha lekin order time par aa gaya,FOOD#QUALITY,chawal,0,6,positive
+1000084:1,chawal mazaydaar tha lekin waiter acha behaviour tha lekin order time par aa gaya,SERVICE#GENERAL,waiter,27,33,positive
+1000084:2,chawal mazaydaar tha lekin waiter acha behaviour tha lekin order time par aa gaya,DELIVERY#GENERAL,order,59,64,positive
+1000085:0,waiter bad behaviour tha lekin chawal beqar tha lekin delivery jaldi pohanch gaya,SERVICE#GENERAL,waiter,0,6,negative
+1000085:1,waiter bad behaviour tha lekin chawal beqar tha lekin delivery jaldi pohanch gaya,FOOD#QUALITY,chawal,31,37,negative
+1000085:2,waiter bad behaviour tha lekin chawal beqar tha lekin delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,54,62,positive
+1000086:0,service bohot polite tha lekin qorma bilkul acha nahi tha,SERVICE#GENERAL,service,0,7,positive
+1000086:1,service bohot polite tha lekin qorma bilkul acha nahi tha,FOOD#QUALITY,qorma,31,36,negative
+1000087:0,order time par aa gaya lekin biryani bilkul acha nahi tha,DELIVERY#GENERAL,order,0,5,positive
+1000087:1,order time par aa gaya lekin biryani bilkul acha nahi tha,FOOD#QUALITY,biryani,29,36,negative
+1000088:0,delivery time par aa gaya,DELIVERY#GENERAL,delivery,0,8,positive
+1000089:0,staff rude tha,SERVICE#GENERAL,staff,0,5,negative
+1000090:0,delivery time par aa gaya lekin service bohot polite tha,DELIVERY#GENERAL,delivery,0,8,positive
+1000090:1,delivery time par aa gaya lekin service bohot polite tha,SERVICE#GENERAL,service,32,39,positive
+1000091:0,paratha bilkul acha nahi tha,FOOD#QUALITY,paratha,0,7,negative
+1000092:0,counter wala bad behaviour tha lekin delivery time par aa gaya lekin qorma beqar tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000092:1,counter wala bad behaviour tha lekin delivery time par aa gaya lekin qorma beqar tha,DELIVERY#GENERAL,delivery,37,45,positive
+1000092:2,counter wala bad behaviour tha lekin delivery time par aa gaya lekin qorma beqar tha,FOOD#QUALITY,qorma,69,74,negative
+1000093:0,chicken overcooked tha,FOOD#QUALITY,chicken,0,7,negative
+1000094:0,counter wala bohot polite tha lekin time jaldi pohanch gaya,SERVICE#GENERAL,counter wala,0,12,positive
+1000094:1,counter wala bohot polite tha lekin time jaldi pohanch gaya,DELIVERY#GENERAL,time,36,40,positive
+1000095:0,rider jaldi pohanch gaya lekin staff bohot polite tha lekin paratha mazaydaar tha,DELIVERY#GENERAL,rider,0,5,positive
+1000095:1,rider jaldi pohanch gaya lekin staff bohot polite tha lekin paratha mazaydaar tha,SERVICE#GENERAL,staff,31,36,positive
+1000095:2,rider jaldi pohanch gaya lekin staff bohot polite tha lekin paratha mazaydaar tha,FOOD#QUALITY,paratha,60,67,positive
+1000096:0,service rude tha lekin nihari mazaydaar tha lekin delivery time par aa gaya,SERVICE#GENERAL,service,0,7,negative
+1000096:1,service rude tha lekin nihari mazaydaar tha lekin delivery time par aa gaya,FOOD#QUALITY,nihari,23,29,positive
+1000096:2,service rude tha lekin nihari mazaydaar tha lekin delivery time par aa gaya,DELIVERY#GENERAL,delivery,50,58,positive
+1000097:0,qorma mazaydaar tha,FOOD#QUALITY,qorma,0,5,positive
+1000098:0,service bohot polite tha lekin qorma bilkul acha nahi tha lekin time kaafi dair laga di,SERVICE#GENERAL,service,0,7,positive
+1000098:1,service bohot polite tha lekin qorma bilkul acha nahi tha lekin time kaafi dair laga di,FOOD#QUALITY,qorma,31,36,negative
+1000098:2,service bohot polite tha lekin qorma bilkul acha nahi tha lekin time kaafi dair laga di,DELIVERY#GENERAL,time,64,68,negative
+1000099:0,order kaafi dair laga di,DELIVERY#GENERAL,order,0,5,negative
+1000100:0,qorma overcooked tha lekin service rude tha,FOOD#QUALITY,qorma,0,5,negative
+1000100:1,qorma overcooked tha lekin service rude tha,SERVICE#GENERAL,service,27,34,negative
+1000101:0,chicken beqar tha lekin delivery jaldi pohanch gaya lekin counter wala rude tha,FOOD#QUALITY,chicken,0,7,negative
+1000101:1,chicken beqar tha lekin delivery jaldi pohanch gaya lekin counter wala rude tha,DELIVERY#GENERAL,delivery,24,32,positive
+1000101:2,chicken beqar tha lekin delivery jaldi pohanch gaya lekin counter wala rude tha,SERVICE#GENERAL,counter wala,58,70,negative
+1000102:0,staff bohot polite tha lekin chicken mazaydaar tha lekin rider time par aa gaya,SERVICE#GENERAL,staff,0,5,positive
+1000102:1,staff bohot polite tha lekin chicken mazaydaar tha lekin rider time par aa gaya,FOOD#QUALITY,chicken,29,36,positive
+1000102:2,staff bohot polite tha lekin chicken mazaydaar tha lekin rider time par aa gaya,DELIVERY#GENERAL,rider,57,62,positive
+1000103:0,time bohot late aya lekin service acha behaviour tha,DELIVERY#GENERAL,time,0,4,negative
+1000103:1,time bohot late aya lekin service acha behaviour tha,SERVICE#GENERAL,service,26,33,positive
+1000104:0,qorma bohot tasty tha lekin time kaafi dair laga di,FOOD#QUALITY,qorma,0,5,positive
+1000104:1,qorma bohot tasty tha lekin time kaafi dair laga di,DELIVERY#GENERAL,time,28,32,negative
+1000105:0,time jaldi pohanch gaya lekin karahi bilkul acha nahi tha,DELIVERY#GENERAL,time,0,4,positive
+1000105:1,time jaldi pohanch gaya lekin karahi bilkul acha nahi tha,FOOD#QUALITY,karahi,30,36,negative
+1000106:0,karahi bohot tasty tha lekin counter wala bohot polite tha,FOOD#QUALITY,karahi,0,6,positive
+1000106:1,karahi bohot tasty tha lekin counter wala bohot polite tha,SERVICE#GENERAL,counter wala,29,41,positive
+1000107:0,paratha perfect tha lekin counter wala rude tha lekin order kaafi dair laga di,FOOD#QUALITY,paratha,0,7,positive
+1000107:1,paratha perfect tha lekin counter wala rude tha lekin order kaafi dair laga di,SERVICE#GENERAL,counter wala,26,38,negative
+1000107:2,paratha perfect tha lekin counter wala rude tha lekin order kaafi dair laga di,DELIVERY#GENERAL,order,54,59,negative
+1000108:0,chawal mazaydaar tha lekin waiter acha behaviour tha lekin delivery bohot late aya,FOOD#QUALITY,chawal,0,6,positive
+1000108:1,chawal mazaydaar tha lekin waiter acha behaviour tha lekin delivery bohot late aya,SERVICE#GENERAL,waiter,27,33,positive
+1000108:2,chawal mazaydaar tha lekin waiter acha behaviour tha lekin delivery bohot late aya,DELIVERY#GENERAL,delivery,59,67,negative
+1000109:0,order bohot late aya,DELIVERY#GENERAL,order,0,5,negative
+1000110:0,biryani perfect tha,FOOD#QUALITY,biryani,0,7,positive
+1000111:0,time kaafi dair laga di lekin qorma beqar tha lekin staff bad behaviour tha,DELIVERY#GENERAL,time,0,4,negative
+1000111:1,time kaafi dair laga di lekin qorma beqar tha lekin staff bad behaviour tha,FOOD#QUALITY,qorma,30,35,negative
+1000111:2,time kaafi dair laga di lekin qorma beqar tha lekin staff bad behaviour tha,SERVICE#GENERAL,staff,52,57,negative
+1000112:0,time time par aa gaya,DELIVERY#GENERAL,time,0,4,positive
+1000113:0,counter wala bohot polite tha,SERVICE#GENERAL,counter wala,0,12,positive
+1000114:0,chawal perfect tha lekin time bohot late aya,FOOD#QUALITY,chawal,0,6,positive
+1000114:1,chawal perfect tha lekin time bohot late aya,DELIVERY#GENERAL,time,25,29,negative
+1000115:0,staff bad behaviour tha lekin rider kaafi dair laga di,SERVICE#GENERAL,staff,0,5,negative
+1000115:1,staff bad behaviour tha lekin rider kaafi dair laga di,DELIVERY#GENERAL,rider,30,35,negative
+1000116:0,qorma bilkul acha nahi tha lekin rider jaldi pohanch gaya lekin delivery boy rude tha,FOOD#QUALITY,qorma,0,5,negative
+1000116:1,qorma bilkul acha nahi tha lekin rider jaldi pohanch gaya lekin delivery boy rude tha,DELIVERY#GENERAL,rider,33,38,positive
+1000116:2,qorma bilkul acha nahi tha lekin rider jaldi pohanch gaya lekin delivery boy rude tha,SERVICE#GENERAL,delivery boy,64,76,negative
+1000117:0,time jaldi pohanch gaya lekin biryani bohot tasty tha lekin service bohot polite tha,DELIVERY#GENERAL,time,0,4,positive
+1000117:1,time jaldi pohanch gaya lekin biryani bohot tasty tha lekin service bohot polite tha,FOOD#QUALITY,biryani,30,37,positive
+1000117:2,time jaldi pohanch gaya lekin biryani bohot tasty tha lekin service bohot polite tha,SERVICE#GENERAL,service,60,67,positive
+1000118:0,chicken bilkul acha nahi tha,FOOD#QUALITY,chicken,0,7,negative
+1000119:0,karahi bilkul acha nahi tha,FOOD#QUALITY,karahi,0,6,negative
+1000120:0,staff rude tha lekin nihari beqar tha,SERVICE#GENERAL,staff,0,5,negative
+1000120:1,staff rude tha lekin nihari beqar tha,FOOD#QUALITY,nihari,21,27,negative
+1000121:0,qorma beqar tha lekin rider time par aa gaya,FOOD#QUALITY,qorma,0,5,negative
+1000121:1,qorma beqar tha lekin rider time par aa gaya,DELIVERY#GENERAL,rider,22,27,positive
+1000122:0,biryani perfect tha lekin order kaafi dair laga di,FOOD#QUALITY,biryani,0,7,positive
+1000122:1,biryani perfect tha lekin order kaafi dair laga di,DELIVERY#GENERAL,order,26,31,negative
+1000123:0,waiter bohot polite tha lekin qorma overcooked tha lekin time bohot late aya,SERVICE#GENERAL,waiter,0,6,positive
+1000123:1,waiter bohot polite tha lekin qorma overcooked tha lekin time bohot late aya,FOOD#QUALITY,qorma,30,35,negative
+1000123:2,waiter bohot polite tha lekin qorma overcooked tha lekin time bohot late aya,DELIVERY#GENERAL,time,57,61,negative
+1000124:0,nihari perfect tha,FOOD#QUALITY,nihari,0,6,positive
+1000125:0,chicken overcooked tha,FOOD#QUALITY,chicken,0,7,negative
+1000126:0,counter wala bad behaviour tha lekin biryani mazaydaar tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000126:1,counter wala bad behaviour tha lekin biryani mazaydaar tha,FOOD#QUALITY,biryani,37,44,positive
+1000127:0,biryani bilkul acha nahi tha lekin rider jaldi pohanch gaya,FOOD#QUALITY,biryani,0,7,negative
+1000127:1,biryani bilkul acha nahi tha lekin rider jaldi pohanch gaya,DELIVERY#GENERAL,rider,35,40,positive
+1000128:0,service bad behaviour tha lekin qorma overcooked tha lekin delivery jaldi pohanch gaya,SERVICE#GENERAL,service,0,7,negative
+1000128:1,service bad behaviour tha lekin qorma overcooked tha lekin delivery jaldi pohanch gaya,FOOD#QUALITY,qorma,32,37,negative
+1000128:2,service bad behaviour tha lekin qorma overcooked tha lekin delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,59,67,positive
+1000129:0,rider bohot late aya lekin paratha beqar tha,DELIVERY#GENERAL,rider,0,5,negative
+1000129:1,rider bohot late aya lekin paratha beqar tha,FOOD#QUALITY,paratha,27,34,negative
+1000130:0,chawal overcooked tha,FOOD#QUALITY,chawal,0,6,negative
+1000131:0,delivery boy bohot polite tha lekin chicken mazaydaar tha lekin delivery kaafi dair laga di,SERVICE#GENERAL,delivery boy,0,12,positive
+1000131:1,delivery boy bohot polite tha lekin chicken mazaydaar tha lekin delivery kaafi dair laga di,FOOD#QUALITY,chicken,36,43,positive
+1000131:2,delivery boy bohot polite tha lekin chicken mazaydaar tha lekin delivery kaafi dair laga di,DELIVERY#GENERAL,delivery,0,8,negative
+1000132:0,biryani bohot tasty tha lekin order kaafi dair laga di lekin service rude tha,FOOD#QUALITY,biryani,0,7,positive
+1000132:1,biryani bohot tasty tha lekin order kaafi dair laga di lekin service rude tha,DELIVERY#GENERAL,order,30,35,negative
+1000132:2,biryani bohot tasty tha lekin order kaafi dair laga di lekin service rude tha,SERVICE#GENERAL,service,61,68,negative
+1000133:0,chicken bilkul acha nahi tha,FOOD#QUALITY,chicken,0,7,negative
+1000134:0,chicken bohot tasty tha lekin delivery jaldi pohanch gaya,FOOD#QUALITY,chicken,0,7,positive
+1000134:1,chicken bohot tasty tha lekin delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,30,38,positive
+1000135:0,counter wala bohot polite tha lekin order kaafi dair laga di lekin chawal bilkul acha nahi tha,SERVICE#GENERAL,counter wala,0,12,positive
+1000135:1,counter wala bohot polite tha lekin order kaafi dair laga di lekin chawal bilkul acha nahi tha,DELIVERY#GENERAL,order,36,41,negative
+1000135:2,counter wala bohot polite tha lekin order kaafi dair laga di lekin chawal bilkul acha nahi tha,FOOD#QUALITY,chawal,67,73,negative
+1000136:0,delivery boy bad behaviour tha lekin delivery kaafi dair laga di,SERVICE#GENERAL,delivery boy,0,12,negative
+1000136:1,delivery boy bad behaviour tha lekin delivery kaafi dair laga di,DELIVERY#GENERAL,delivery,0,8,negative
+1000137:0,service acha behaviour tha lekin order kaafi dair laga di lekin chawal beqar tha,SERVICE#GENERAL,service,0,7,positive
+1000137:1,service acha behaviour tha lekin order kaafi dair laga di lekin chawal beqar tha,DELIVERY#GENERAL,order,33,38,negative
+1000137:2,service acha behaviour tha lekin order kaafi dair laga di lekin chawal beqar tha,FOOD#QUALITY,chawal,64,70,negative
+1000138:0,staff acha behaviour tha lekin time kaafi dair laga di,SERVICE#GENERAL,staff,0,5,positive
+1000138:1,staff acha behaviour tha lekin time kaafi dair laga di,DELIVERY#GENERAL,time,31,35,negative
+1000139:0,delivery boy rude tha lekin order bohot late aya,SERVICE#GENERAL,delivery boy,0,12,negative
+1000139:1,delivery boy rude tha lekin order bohot late aya,DELIVERY#GENERAL,order,28,33,negative
+1000140:0,service bad behaviour tha lekin chawal mazaydaar tha,SERVICE#GENERAL,service,0,7,negative
+1000140:1,service bad behaviour tha lekin chawal mazaydaar tha,FOOD#QUALITY,chawal,32,38,positive
+1000141:0,nihari bohot tasty tha,FOOD#QUALITY,nihari,0,6,positive
+1000142:0,waiter bad behaviour tha lekin karahi mazaydaar tha lekin delivery jaldi pohanch gaya,SERVICE#GENERAL,waiter,0,6,negative
+1000142:1,waiter bad behaviour tha lekin karahi mazaydaar tha lekin delivery jaldi pohanch gaya,FOOD#QUALITY,karahi,31,37,positive
+1000142:2,waiter bad behaviour tha lekin karahi mazaydaar tha lekin delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,58,66,positive
+1000143:0,order bohot late aya lekin karahi beqar tha lekin delivery boy bohot polite tha,DELIVERY#GENERAL,order,0,5,negative
+1000143:1,order bohot late aya lekin karahi beqar tha lekin delivery boy bohot polite tha,FOOD#QUALITY,karahi,27,33,negative
+1000143:2,order bohot late aya lekin karahi beqar tha lekin delivery boy bohot polite tha,SERVICE#GENERAL,delivery boy,50,62,positive
+1000144:0,waiter bohot polite tha,SERVICE#GENERAL,waiter,0,6,positive
+1000145:0,karahi overcooked tha lekin staff rude tha,FOOD#QUALITY,karahi,0,6,negative
+1000145:1,karahi overcooked tha lekin staff rude tha,SERVICE#GENERAL,staff,28,33,negative
+1000146:0,time bohot late aya lekin qorma mazaydaar tha,DELIVERY#GENERAL,time,0,4,negative
+1000146:1,time bohot late aya lekin qorma mazaydaar tha,FOOD#QUALITY,qorma,26,31,positive
+1000147:0,nihari mazaydaar tha lekin order bohot late aya,FOOD#QUALITY,nihari,0,6,positive
+1000147:1,nihari mazaydaar tha lekin order bohot late aya,DELIVERY#GENERAL,order,27,32,negative
+1000148:0,waiter acha behaviour tha,SERVICE#GENERAL,waiter,0,6,positive
+1000149:0,time kaafi dair laga di lekin biryani beqar tha,DELIVERY#GENERAL,time,0,4,negative
+1000149:1,time kaafi dair laga di lekin biryani beqar tha,FOOD#QUALITY,biryani,30,37,negative
+1000150:0,service bohot polite tha lekin paratha bohot tasty tha lekin delivery jaldi pohanch gaya,SERVICE#GENERAL,service,0,7,positive
+1000150:1,service bohot polite tha lekin paratha bohot tasty tha lekin delivery jaldi pohanch gaya,FOOD#QUALITY,paratha,31,38,positive
+1000150:2,service bohot polite tha lekin paratha bohot tasty tha lekin delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,61,69,positive
+1000151:0,waiter bohot polite tha lekin biryani overcooked tha,SERVICE#GENERAL,waiter,0,6,positive
+1000151:1,waiter bohot polite tha lekin biryani overcooked tha,FOOD#QUALITY,biryani,30,37,negative
+1000152:0,paratha perfect tha lekin rider jaldi pohanch gaya lekin delivery boy rude tha,FOOD#QUALITY,paratha,0,7,positive
+1000152:1,paratha perfect tha lekin rider jaldi pohanch gaya lekin delivery boy rude tha,DELIVERY#GENERAL,rider,26,31,positive
+1000152:2,paratha perfect tha lekin rider jaldi pohanch gaya lekin delivery boy rude tha,SERVICE#GENERAL,delivery boy,57,69,negative
+1000153:0,paratha beqar tha,FOOD#QUALITY,paratha,0,7,negative
+1000154:0,delivery boy rude tha,SERVICE#GENERAL,delivery boy,0,12,negative
+1000155:0,time bohot late aya lekin qorma beqar tha,DELIVERY#GENERAL,time,0,4,negative
+1000155:1,time bohot late aya lekin qorma beqar tha,FOOD#QUALITY,qorma,26,31,negative
+1000156:0,waiter bad behaviour tha lekin karahi mazaydaar tha,SERVICE#GENERAL,waiter,0,6,negative
+1000156:1,waiter bad behaviour tha lekin karahi mazaydaar tha,FOOD#QUALITY,karahi,31,37,positive
+1000157:0,counter wala bad behaviour tha lekin nihari mazaydaar tha lekin rider time par aa gaya,SERVICE#GENERAL,counter wala,0,12,negative
+1000157:1,counter wala bad behaviour tha lekin nihari mazaydaar tha lekin rider time par aa gaya,FOOD#QUALITY,nihari,37,43,positive
+1000157:2,counter wala bad behaviour tha lekin nihari mazaydaar tha lekin rider time par aa gaya,DELIVERY#GENERAL,rider,64,69,positive
+1000158:0,paratha perfect tha,FOOD#QUALITY,paratha,0,7,positive
+1000159:0,delivery boy acha behaviour tha lekin delivery time par aa gaya lekin qorma beqar tha,SERVICE#GENERAL,delivery boy,0,12,positive
+1000159:1,delivery boy acha behaviour tha lekin delivery time par aa gaya lekin qorma beqar tha,DELIVERY#GENERAL,delivery,0,8,positive
+1000159:2,delivery boy acha behaviour tha lekin delivery time par aa gaya lekin qorma beqar tha,FOOD#QUALITY,qorma,70,75,negative
+1000160:0,counter wala rude tha lekin order kaafi dair laga di lekin biryani beqar tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000160:1,counter wala rude tha lekin order kaafi dair laga di lekin biryani beqar tha,DELIVERY#GENERAL,order,28,33,negative
+1000160:2,counter wala rude tha lekin order kaafi dair laga di lekin biryani beqar tha,FOOD#QUALITY,biryani,59,66,negative
+1000161:0,staff bohot polite tha,SERVICE#GENERAL,staff,0,5,positive
+1000162:0,service bohot polite tha lekin rider bohot late aya,SERVICE#GENERAL,service,0,7,positive
+1000162:1,service bohot polite tha lekin rider bohot late aya,DELIVERY#GENERAL,rider,31,36,negative
+1000163:0,waiter acha behaviour tha lekin chawal mazaydaar tha lekin time time par aa gaya,SERVICE#GENERAL,waiter,0,6,positive
+1000163:1,waiter acha behaviour tha lekin chawal mazaydaar tha lekin time time par aa gaya,FOOD#QUALITY,chawal,32,38,positive
+1000163:2,waiter acha behaviour tha lekin chawal mazaydaar tha lekin time time par aa gaya,DELIVERY#GENERAL,time,59,63,positive
+1000164:0,time bohot late aya lekin delivery boy bad behaviour tha,DELIVERY#GENERAL,time,0,4,negative
+1000164:1,time bohot late aya lekin delivery boy bad behaviour tha,SERVICE#GENERAL,delivery boy,26,38,negative
+1000165:0,nihari overcooked tha lekin staff bohot polite tha,FOOD#QUALITY,nihari,0,6,negative
+1000165:1,nihari overcooked tha lekin staff bohot polite tha,SERVICE#GENERAL,staff,28,33,positive
+1000166:0,delivery boy rude tha,SERVICE#GENERAL,delivery boy,0,12,negative
+1000167:0,counter wala bohot polite tha lekin rider kaafi dair laga di,SERVICE#GENERAL,counter wala,0,12,positive
+1000167:1,counter wala bohot polite tha lekin rider kaafi dair laga di,DELIVERY#GENERAL,rider,36,41,negative
+1000168:0,karahi bilkul acha nahi tha lekin waiter bohot polite tha,FOOD#QUALITY,karahi,0,6,negative
+1000168:1,karahi bilkul acha nahi tha lekin waiter bohot polite tha,SERVICE#GENERAL,waiter,34,40,positive
+1000169:0,staff rude tha lekin delivery kaafi dair laga di,SERVICE#GENERAL,staff,0,5,negative
+1000169:1,staff rude tha lekin delivery kaafi dair laga di,DELIVERY#GENERAL,delivery,21,29,negative
+1000170:0,nihari overcooked tha lekin delivery boy bad behaviour tha,FOOD#QUALITY,nihari,0,6,negative
+1000170:1,nihari overcooked tha lekin delivery boy bad behaviour tha,SERVICE#GENERAL,delivery boy,28,40,negative
+1000171:0,time kaafi dair laga di lekin chawal beqar tha,DELIVERY#GENERAL,time,0,4,negative
+1000171:1,time kaafi dair laga di lekin chawal beqar tha,FOOD#QUALITY,chawal,30,36,negative
+1000172:0,rider kaafi dair laga di,DELIVERY#GENERAL,rider,0,5,negative
+1000173:0,chawal mazaydaar tha lekin waiter acha behaviour tha,FOOD#QUALITY,chawal,0,6,positive
+1000173:1,chawal mazaydaar tha lekin waiter acha behaviour tha,SERVICE#GENERAL,waiter,27,33,positive
+1000174:0,counter wala acha behaviour tha,SERVICE#GENERAL,counter wala,0,12,positive
+1000175:0,paratha overcooked tha lekin delivery jaldi pohanch gaya,FOOD#QUALITY,paratha,0,7,negative
+1000175:1,paratha overcooked tha lekin delivery jaldi pohanch gaya,DELIVERY#GENERAL,delivery,29,37,positive
+1000176:0,service rude tha lekin delivery kaafi dair laga di,SERVICE#GENERAL,service,0,7,negative
+1000176:1,service rude tha lekin delivery kaafi dair laga di,DELIVERY#GENERAL,delivery,23,31,negative
+1000177:0,chicken overcooked tha lekin time bohot late aya lekin counter wala bohot polite tha,FOOD#QUALITY,chicken,0,7,negative
+1000177:1,chicken overcooked tha lekin time bohot late aya lekin counter wala bohot polite tha,DELIVERY#GENERAL,time,29,33,negative
+1000177:2,chicken overcooked tha lekin time bohot late aya lekin counter wala bohot polite tha,SERVICE#GENERAL,counter wala,55,67,positive
+1000178:0,waiter rude tha,SERVICE#GENERAL,waiter,0,6,negative
+1000179:0,order bohot late aya lekin waiter bohot polite tha,DELIVERY#GENERAL,order,0,5,negative
+1000179:1,order bohot late aya lekin waiter bohot polite tha,SERVICE#GENERAL,waiter,27,33,positive
+1000180:0,counter wala bohot polite tha lekin rider jaldi pohanch gaya lekin chawal bohot tasty tha,SERVICE#GENERAL,counter wala,0,12,positive
+1000180:1,counter wala bohot polite tha lekin rider jaldi pohanch gaya lekin chawal bohot tasty tha,DELIVERY#GENERAL,rider,36,41,positive
+1000180:2,counter wala bohot polite tha lekin rider jaldi pohanch gaya lekin chawal bohot tasty tha,FOOD#QUALITY,chawal,67,73,positive
+1000181:0,rider time par aa gaya lekin nihari overcooked tha lekin staff rude tha,DELIVERY#GENERAL,rider,0,5,positive
+1000181:1,rider time par aa gaya lekin nihari overcooked tha lekin staff rude tha,FOOD#QUALITY,nihari,29,35,negative
+1000181:2,rider time par aa gaya lekin nihari overcooked tha lekin staff rude tha,SERVICE#GENERAL,staff,57,62,negative
+1000182:0,chicken overcooked tha lekin delivery boy rude tha,FOOD#QUALITY,chicken,0,7,negative
+1000182:1,chicken overcooked tha lekin delivery boy rude tha,SERVICE#GENERAL,delivery boy,29,41,negative
+1000183:0,waiter bohot polite tha lekin time time par aa gaya lekin qorma mazaydaar tha,SERVICE#GENERAL,waiter,0,6,positive
+1000183:1,waiter bohot polite tha lekin time time par aa gaya lekin qorma mazaydaar tha,DELIVERY#GENERAL,time,30,34,positive
+1000183:2,waiter bohot polite tha lekin time time par aa gaya lekin qorma mazaydaar tha,FOOD#QUALITY,qorma,58,63,positive
+1000184:0,chicken bilkul acha nahi tha lekin rider jaldi pohanch gaya,FOOD#QUALITY,chicken,0,7,negative
+1000184:1,chicken bilkul acha nahi tha lekin rider jaldi pohanch gaya,DELIVERY#GENERAL,rider,35,40,positive
+1000185:0,service rude tha lekin rider time par aa gaya lekin chawal bilkul acha nahi tha,SERVICE#GENERAL,service,0,7,negative
+1000185:1,service rude tha lekin rider time par aa gaya lekin chawal bilkul acha nahi tha,DELIVERY#GENERAL,rider,23,28,positive
+1000185:2,service rude tha lekin rider time par aa gaya lekin chawal bilkul acha nahi tha,FOOD#QUALITY,chawal,52,58,negative
+1000186:0,service rude tha,SERVICE#GENERAL,service,0,7,negative
+1000187:0,waiter bohot polite tha lekin chicken mazaydaar tha lekin rider bohot late aya,SERVICE#GENERAL,waiter,0,6,positive
+1000187:1,waiter bohot polite tha lekin chicken mazaydaar tha lekin rider bohot late aya,FOOD#QUALITY,chicken,30,37,positive
+1000187:2,waiter bohot polite tha lekin chicken mazaydaar tha lekin rider bohot late aya,DELIVERY#GENERAL,rider,58,63,negative
+1000188:0,delivery boy bad behaviour tha lekin order bohot late aya lekin biryani beqar tha,SERVICE#GENERAL,delivery boy,0,12,negative
+1000188:1,delivery boy bad behaviour tha lekin order bohot late aya lekin biryani beqar tha,DELIVERY#GENERAL,order,37,42,negative
+1000188:2,delivery boy bad behaviour tha lekin order bohot late aya lekin biryani beqar tha,FOOD#QUALITY,biryani,64,71,negative
+1000189:0,staff bohot polite tha,SERVICE#GENERAL,staff,0,5,positive
+1000190:0,staff bohot polite tha lekin nihari beqar tha,SERVICE#GENERAL,staff,0,5,positive
+1000190:1,staff bohot polite tha lekin nihari beqar tha,FOOD#QUALITY,nihari,29,35,negative
+1000191:0,chawal overcooked tha lekin staff acha behaviour tha lekin order jaldi pohanch gaya,FOOD#QUALITY,chawal,0,6,negative
+1000191:1,chawal overcooked tha lekin staff acha behaviour tha lekin order jaldi pohanch gaya,SERVICE#GENERAL,staff,28,33,positive
+1000191:2,chawal overcooked tha lekin staff acha behaviour tha lekin order jaldi pohanch gaya,DELIVERY#GENERAL,order,59,64,positive
+1000192:0,order time par aa gaya lekin staff rude tha lekin chawal perfect tha,DELIVERY#GENERAL,order,0,5,positive
+1000192:1,order time par aa gaya lekin staff rude tha lekin chawal perfect tha,SERVICE#GENERAL,staff,29,34,negative
+1000192:2,order time par aa gaya lekin staff rude tha lekin chawal perfect tha,FOOD#QUALITY,chawal,50,56,positive
+1000193:0,time jaldi pohanch gaya lekin waiter rude tha,DELIVERY#GENERAL,time,0,4,positive
+1000193:1,time jaldi pohanch gaya lekin waiter rude tha,SERVICE#GENERAL,waiter,30,36,negative
+1000194:0,waiter acha behaviour tha lekin qorma perfect tha lekin delivery time par aa gaya,SERVICE#GENERAL,waiter,0,6,positive
+1000194:1,waiter acha behaviour tha lekin qorma perfect tha lekin delivery time par aa gaya,FOOD#QUALITY,qorma,32,37,positive
+1000194:2,waiter acha behaviour tha lekin qorma perfect tha lekin delivery time par aa gaya,DELIVERY#GENERAL,delivery,56,64,positive
+1000195:0,rider bohot late aya lekin chicken beqar tha,DELIVERY#GENERAL,rider,0,5,negative
+1000195:1,rider bohot late aya lekin chicken beqar tha,FOOD#QUALITY,chicken,27,34,negative
+1000196:0,service acha behaviour tha lekin karahi beqar tha lekin rider bohot late aya,SERVICE#GENERAL,service,0,7,positive
+1000196:1,service acha behaviour tha lekin karahi beqar tha lekin rider bohot late aya,FOOD#QUALITY,karahi,33,39,negative
+1000196:2,service acha behaviour tha lekin karahi beqar tha lekin rider bohot late aya,DELIVERY#GENERAL,rider,56,61,negative
+1000197:0,order time par aa gaya lekin karahi beqar tha,DELIVERY#GENERAL,order,0,5,positive
+1000197:1,order time par aa gaya lekin karahi beqar tha,FOOD#QUALITY,karahi,29,35,negative
+1000198:0,delivery boy acha behaviour tha lekin karahi overcooked tha,SERVICE#GENERAL,delivery boy,0,12,positive
+1000198:1,delivery boy acha behaviour tha lekin karahi overcooked tha,FOOD#QUALITY,karahi,38,44,negative
+1000199:0,delivery boy bohot polite tha lekin order jaldi pohanch gaya lekin chawal beqar tha,SERVICE#GENERAL,delivery boy,0,12,positive
+1000199:1,delivery boy bohot polite tha lekin order jaldi pohanch gaya lekin chawal beqar tha,DELIVERY#GENERAL,order,36,41,positive
+1000199:2,delivery boy bohot polite tha lekin order jaldi pohanch gaya lekin chawal beqar tha,FOOD#QUALITY,chawal,67,73,negative
+1000200:0,waiter rude tha,SERVICE#GENERAL,waiter,0,6,negative
+1000201:0,time bohot late aya lekin chawal perfect tha,DELIVERY#GENERAL,time,0,4,negative
+1000201:1,time bohot late aya lekin chawal perfect tha,FOOD#QUALITY,chawal,26,32,positive
+1000202:0,nihari perfect tha lekin time time par aa gaya,FOOD#QUALITY,nihari,0,6,positive
+1000202:1,nihari perfect tha lekin time time par aa gaya,DELIVERY#GENERAL,time,25,29,positive
+1000203:0,qorma perfect tha lekin waiter acha behaviour tha lekin time kaafi dair laga di,FOOD#QUALITY,qorma,0,5,positive
+1000203:1,qorma perfect tha lekin waiter acha behaviour tha lekin time kaafi dair laga di,SERVICE#GENERAL,waiter,24,30,positive
+1000203:2,qorma perfect tha lekin waiter acha behaviour tha lekin time kaafi dair laga di,DELIVERY#GENERAL,time,56,60,negative
+1000204:0,order kaafi dair laga di lekin biryani overcooked tha lekin waiter rude tha,DELIVERY#GENERAL,order,0,5,negative
+1000204:1,order kaafi dair laga di lekin biryani overcooked tha lekin waiter rude tha,FOOD#QUALITY,biryani,31,38,negative
+1000204:2,order kaafi dair laga di lekin biryani overcooked tha lekin waiter rude tha,SERVICE#GENERAL,waiter,60,66,negative
+1000205:0,karahi overcooked tha lekin order bohot late aya lekin staff acha behaviour tha,FOOD#QUALITY,karahi,0,6,negative
+1000205:1,karahi overcooked tha lekin order bohot late aya lekin staff acha behaviour tha,DELIVERY#GENERAL,order,28,33,negative
+1000205:2,karahi overcooked tha lekin order bohot late aya lekin staff acha behaviour tha,SERVICE#GENERAL,staff,55,60,positive
+1000206:0,chicken overcooked tha,FOOD#QUALITY,chicken,0,7,negative
+1000207:0,order bohot late aya,DELIVERY#GENERAL,order,0,5,negative
+1000208:0,counter wala rude tha,SERVICE#GENERAL,counter wala,0,12,negative
+1000209:0,chicken beqar tha lekin rider kaafi dair laga di,FOOD#QUALITY,chicken,0,7,negative
+1000209:1,chicken beqar tha lekin rider kaafi dair laga di,DELIVERY#GENERAL,rider,24,29,negative
+1000210:0,chawal perfect tha,FOOD#QUALITY,chawal,0,6,positive
+1000211:0,nihari perfect tha lekin time kaafi dair laga di lekin service bohot polite tha,FOOD#QUALITY,nihari,0,6,positive
+1000211:1,nihari perfect tha lekin time kaafi dair laga di lekin service bohot polite tha,DELIVERY#GENERAL,time,25,29,negative
+1000211:2,nihari perfect tha lekin time kaafi dair laga di lekin service bohot polite tha,SERVICE#GENERAL,service,55,62,positive
+1000212:0,staff acha behaviour tha,SERVICE#GENERAL,staff,0,5,positive
+1000213:0,time kaafi dair laga di lekin service bohot polite tha lekin nihari mazaydaar tha,DELIVERY#GENERAL,time,0,4,negative
+1000213:1,time kaafi dair laga di lekin service bohot polite tha lekin nihari mazaydaar tha,SERVICE#GENERAL,service,30,37,positive
+1000213:2,time kaafi dair laga di lekin service bohot polite tha lekin nihari mazaydaar tha,FOOD#QUALITY,nihari,61,67,positive
+1000214:0,staff acha behaviour tha lekin delivery jaldi pohanch gaya lekin karahi beqar tha,SERVICE#GENERAL,staff,0,5,positive
+1000214:1,staff acha behaviour tha lekin delivery jaldi pohanch gaya lekin karahi beqar tha,DELIVERY#GENERAL,delivery,31,39,positive
+1000214:2,staff acha behaviour tha lekin delivery jaldi pohanch gaya lekin karahi beqar tha,FOOD#QUALITY,karahi,65,71,negative
+1000215:0,time jaldi pohanch gaya lekin service bohot polite tha lekin qorma mazaydaar tha,DELIVERY#GENERAL,time,0,4,positive
+1000215:1,time jaldi pohanch gaya lekin service bohot polite tha lekin qorma mazaydaar tha,SERVICE#GENERAL,service,30,37,positive
+1000215:2,time jaldi pohanch gaya lekin service bohot polite tha lekin qorma mazaydaar tha,FOOD#QUALITY,qorma,61,66,positive
+1000216:0,nihari bilkul acha nahi tha lekin delivery boy rude tha,FOOD#QUALITY,nihari,0,6,negative
+1000216:1,nihari bilkul acha nahi tha lekin delivery boy rude tha,SERVICE#GENERAL,delivery boy,34,46,negative
+1000217:0,time kaafi dair laga di,DELIVERY#GENERAL,time,0,4,negative
+1000218:0,order bohot late aya,DELIVERY#GENERAL,order,0,5,negative
+1000219:0,delivery jaldi pohanch gaya lekin counter wala rude tha lekin chicken bohot tasty tha,DELIVERY#GENERAL,delivery,0,8,positive
+1000219:1,delivery jaldi pohanch gaya lekin counter wala rude tha lekin chicken bohot tasty tha,SERVICE#GENERAL,counter wala,34,46,negative
+1000219:2,delivery jaldi pohanch gaya lekin counter wala rude tha lekin chicken bohot tasty tha,FOOD#QUALITY,chicken,62,69,positive
